@@ -10,7 +10,27 @@
 - https://github.com/NirDiamant/agents-towards-production — 40 гайдов по созданию ИИ-агентов;
 - https://www.whatitprints.com/ — тренировка чтения и понимания кода (*возможно, нужен VPN*);
 - https://quickref.me/ — шпаргалки по языкам (*возможно, нужен VPN*);
-- https://lightpdf.com/ — редактирование PDF
+- https://lightpdf.com/ — редактирование PDF;
+- https://listeninenglish.com/index.php — сериалы на английском с вокабуляром, вопросами и обсуждением;
+- https://babadum.com/ — игра-запоминание-угадывание слов;
+
+### *Отправить резюме*:
+- https://buffer.com/ — личный помощник, подключение social media (?);
+- https://toggl.com/;
+- https://www.helpscout.com/company/careers/;
+- https://stripe.com/;
+- https://studio-alt.ru/#section-1;
+- https://jobs.lever.co/playvs;
+- https://mentorcollective.jazz.co/;
+- https://www.knotch.com/careers#roles.
+
+
+
+
+
+### **Видео**
+
+- Лекции Алана Уотса;
 
 
 ## **Саморазвитие**
