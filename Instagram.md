@@ -13,6 +13,7 @@
 - https://lightpdf.com/ — редактирование PDF;
 - https://listeninenglish.com/index.php — сериалы на английском с вокабуляром, вопросами и обсуждением;
 - https://babadum.com/ — игра-запоминание-угадывание слов;
+- https://gamma.app/ — сайт для презентаций
 
 ### *Отправить резюме*:
 - https://buffer.com/ — личный помощник, подключение social media (?);
