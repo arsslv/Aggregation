@@ -52,6 +52,17 @@
 - Дэн Пинк — «Загадка мотивации»;
 - Селеста Хедли — «10 способов улучшить разговор»;
 - Анджела Ли Дакворт — «Сила страсти и настойчивости»;
+- Neville Goddard — "How to use your imagination to get anything you want";
+- Daniel Goleman and Richard Davidson — "Does mindfulness really work?";
+- Andrew Huberman — "The billion dollar routine you can copy";
+- "The best Primal Flow excercises that can be done anywhere";
+- "Building a neural network from scratch (no Tensorflow/Pytorch)";
+- "Let's build GPT: from scratch, in code, spelled out";
+- "How ti absorb textbooks like a sponge";
+- "How to speak articulately";
+- "How to make every day so fun you don't even have time to scroll";
+- "Give me 6:43 and I'll make you instantly more attractive";
+
 
 ## **Цитаты**
 
