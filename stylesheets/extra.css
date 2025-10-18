@@ -1,0 +1,138 @@
+/* Зелёный хэдер для светлой темы (#009485) */
+[data-md-color-primary="teal"] .md-header {
+    background-color: #009485 !important;
+}
+
+[data-md-color-primary="teal"] .md-tabs {
+    background-color: #007a6e !important;
+}
+
+/* Admonitions в цвет хэдера #009485 */
+.md-typeset .admonition {
+    border-color: #009485 !important;
+    background-color: #009485 !important;
+    color: white !important;
+}
+
+.md-typeset .admonition-title {
+    background-color: #007a6e !important;
+    border-color: #009485 !important;
+    color: white !important;
+}
+
+/* Убираем иконки */
+.md-typeset .admonition-title::before {
+    display: none !important;
+}
+
+.md-typeset details {
+    border-color: #009485 !important;
+    background-color: #009485 !important;
+    color: white !important;
+}
+
+.md-typeset summary {
+    background-color: #007a6e !important;
+    border-color: #009485 !important;
+    color: white !important;
+}
+
+.md-typeset summary::before {
+    display: none !important;
+}
+
+.md-typeset .admonition p,
+.md-typeset .admonition ul,
+.md-typeset .admonition ol,
+.md-typeset .admonition li,
+.md-typeset .admonition blockquote {
+    color: white !important;
+}
+
+/* Вариант 1 - Яркий салатовый */
+.md-typeset .admonition a {
+    color: #c8e6c9 !important;
+    text-decoration: underline;
+    font-weight: 600 !important;
+}
+
+/* Вариант 2 - Светло-жёлтый */
+.md-typeset .admonition a {
+    color: #fff9c4 !important;
+    text-decoration: underline;
+    font-weight: 600 !important;
+}
+
+/* Вариант 3 - Неоновый зелёный */
+.md-typeset .admonition a {
+    color: #69f0ae !important;
+    text-decoration: underline;
+    font-weight: 600 !important;
+}
+
+/* ВСЕ ВКЛАДКИ КРАСИВЫЕ КАК ПАМЯТЬ */
+
+/* ВСЕ ВКЛАДКИ ОДИНАКОВЫЕ */
+
+.md-tabs__item .md-tabs__link {
+    font-weight: 600 !important;
+    font-size: 0.9rem !important; /* Явно указываем размер */
+    background: linear-gradient(135deg, #00635a, #004d47) !important;
+    border-radius: 6px 6px 0 0 !important;
+    margin: 2px 4px -2px 4px !important;
+    padding: 8px 16px !important; /* Увеличим немного padding */
+    box-shadow: 0 1px 3px rgba(0,0,0,0.15) !important;
+    opacity: 0.85;
+    line-height: 1.4 !important; /* Добавляем line-height для выравнивания */
+    min-height: 40px !important; /* Минимальная высота для всех */
+    display: flex !important;
+    align-items: center !important;
+}
+
+/* Для светлой темы - уменьшаем тени */
+[data-md-color-scheme="default"] .md-tabs__item .md-tabs__link {
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15) !important;
+}
+
+/* Иконки для вкладок */
+.md-tabs__item:nth-child(1) .md-tabs__link::before {
+    content: "🏠 ";
+    margin-right: 6px;
+}
+
+.md-tabs__item:nth-child(2) .md-tabs__link::before {
+    content: "📚 ";
+    margin-right: 6px;
+}
+
+.md-tabs__item:nth-child(3) .md-tabs__link::before {
+    content: "📖 ";
+    margin-right: 6px;
+}
+
+.md-tabs__item:nth-child(4) .md-tabs__link::before {
+    content: "🧠 ";
+    margin-right: 6px;
+}
+
+/* Красивое выделение заголовка сайта */
+.md-header__topic {
+    position: relative;
+}
+
+.md-header__topic .md-ellipsis {
+    background: linear-gradient(135deg, #00b3a1, #80cbc4, #00b3a1) !important;
+    background-size: 200% 200% !important;
+    -webkit-background-clip: text !important;
+    background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    animation: gradient-shift 3s ease infinite !important;
+    font-weight: 700 !important;
+    font-size: 1.2em !important;
+}
+
+@keyframes gradient-shift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
