@@ -136,3 +136,8 @@
     50% { background-position: 100% 50%; }
     100% { background-position: 0% 50%; }
 }
+
+/* Убираем только активную ссылку в левой навигации */
+.md-sidebar--primary .md-nav__item--active .md-nav__link {
+    display: none !important;
+}
