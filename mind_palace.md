@@ -1,4 +1,4 @@
-# Mind Palace
+# **Mind Palace**
 
 === "Химия"
     ??? Глинка
