@@ -1,143 +1,225 @@
-/* Зелёный хэдер для светлой темы (#009485) */
-[data-md-color-primary="teal"] .md-header {
-    background-color: #009485 !important;
-}
+/* ===== СВЕТЛАЯ ТЕМА ===== */
+[data-md-color-scheme="default"] {
+  /* Хэдер и вкладки */
+  .md-header {
+    background-color: #4B9FB7 !important;
+  }
 
-[data-md-color-primary="teal"] .md-tabs {
-    background-color: #007a6e !important;
-}
+  .md-tabs {
+    background-color: #2989A4 !important;
+  }
 
-/* Admonitions в цвет хэдера #009485 */
-.md-typeset .admonition {
-    border-color: #009485 !important;
-    background-color: #009485 !important;
+  /* Фон основной области */
+  .md-main {
+    background: linear-gradient(135deg, #cfc7c7 0%, #f5f5f5 100%) !important;
+  }
+
+  /* Admonitions */
+  .md-typeset .admonition {
+    border-color: #2989A4 !important;
+    background-color: #2989A4 !important;
     color: white !important;
-}
+  }
 
-.md-typeset .admonition-title {
-    background-color: #007a6e !important;
-    border-color: #009485 !important;
+  .md-typeset .admonition-title {
+    background-color: #4B9FB7 !important;
+    border-color: #4B9FB7 !important;
     color: white !important;
+  }
+
+  .md-typeset details {
+    border-color: #2989A4 !important;
+    background-color: #2989A4 !important;
+    color: white !important;
+  }
+
+  .md-typeset summary {
+    background-color: #4B9FB7 !important;
+    border-color: #4B9FB7 !important;
+    color: white !important;
+  }
+
+  /* Ссылки в admonitions */
+  .md-typeset .admonition a,
+  .md-typeset details a {
+    color: #5dc8e5 !important;
+    font-weight: 400 !important;
+    text-decoration: underline !important;
+  }
+
+  .md-typeset .admonition a:hover,
+  .md-typeset details a:hover {
+    color: #ffffff !important;
+  }
+
+  /* ВКЛАДКИ НАВИГАЦИИ ДЛЯ светлой ТЕМЫ (без градиента) */
+  .md-tabs__item .md-tabs__link {
+    background: #7cc3d8 !important; /* Цвет невыбранных вкладок */
+    box-shadow: 0 1px 3px rgba(0,0,0,0.15) !important;
+    color: #2f4d52 !important; /* Цвет текста невыбранных вкладок */
+    opacity: 0.9 !important;
+    font-weight: 400 !important;
+  }
+
+  /* Активная вкладка в светлой теме */
+  .md-tabs__item--active .md-tabs__link {
+    background: #04607b !important; /* Цвет выбранной вкладки */
+    color: whitesmoke !important; /* Цвет текста выбранной вкладки */
+    opacity: 1 !important;
+    font-weight: 700 !important;
+  }
+
+  /* Ховер эффект для неактивных вкладок */
+  .md-tabs__item .md-tabs__link:hover {
+    background: #023A4D !important; /* Немного светлее при наведении */
+    color: #7ABACC !important;
+    opacity: 1 !important;
+  }
 }
 
-/* Убираем иконки */
+/* ===== ТЁМНАЯ ТЕМА ===== */
+[data-md-color-scheme="slate"] {
+  /* Хэдер и вкладки */
+  .md-header {
+    background-color: #1E6c82 !important;
+  }
+
+  .md-tabs {
+    background-color: #1a5e71 !important;
+  }
+
+  /* Фон основной области */
+  .md-main {
+    background: #202020 !important;
+  }
+
+  /* Admonitions */
+  .md-typeset .admonition {
+    border-color: #1a5e71 !important;
+    background-color: #1a5e71 !important;
+    color: white !important;
+  }
+
+  .md-typeset .admonition-title {
+    background-color: #1E6c82 !important;
+    border-color: #1E6c82 !important;
+    color: white !important;
+  }
+
+  .md-typeset details {
+    border-color: #1a5e71 !important;
+    background-color: #1a5e71 !important;
+    color: white !important;
+  }
+
+  .md-typeset summary {
+    background-color: #1E6c82 !important;
+    border-color: #1E6c82 !important;
+    color: white !important;
+  }
+
+  /* Ссылки в admonitions */
+  .md-typeset .admonition a,
+  .md-typeset details a {
+    color: #7abacc !important;
+    font-weight: 400 !important;
+    text-decoration: underline !important;
+  }
+
+  .md-typeset .admonition a:hover,
+  .md-typeset details a:hover {
+    color: #ffffff !important;
+  }
+
+    /* ВКЛАДКИ НАВИГАЦИИ ДЛЯ ТЁМНОЙ ТЕМЫ (без градиента) */
+  .md-tabs__item .md-tabs__link {
+    background: #011D24 !important; /* Цвет невыбранных вкладок */
+    box-shadow: 0 1px 3px rgba(0,0,0,0.15) !important;
+    color: #d5dbdc !important; /* Цвет текста невыбранных вкладок */
+    opacity: 0.9 !important;
+    font-weight: 400 !important;
+  }
+
+  /* Активная вкладка в тёмной теме */
+  .md-tabs__item--active .md-tabs__link {
+    background: #7ABACC !important; /* Цвет выбранной вкладки */
+    color: #011D24 !important; /* Цвет текста выбранной вкладки */
+    opacity: 1 !important;
+    font-weight: 700 !important;
+  }
+
+  /* Ховер эффект для неактивных вкладок */
+  .md-tabs__item .md-tabs__link:hover {
+    background: #023A4D !important; /* Немного светлее при наведении */
+    color: #7ABACC !important;
+    opacity: 1 !important;
+  }
+}
+
+/* ===== ОБЩИЕ СТИЛИ (для обеих тем) ===== */
+
+/* Убираем иконки admonitions */
 .md-typeset .admonition-title::before {
-    display: none !important;
-}
-
-.md-typeset details {
-    border-color: #009485 !important;
-    background-color: #009485 !important;
-    color: white !important;
-}
-
-.md-typeset summary {
-    background-color: #007a6e !important;
-    border-color: #009485 !important;
-    color: white !important;
+  display: none !important;
 }
 
 .md-typeset summary::before {
-    display: none !important;
+  display: none !important;
 }
 
+/* Текст в admonitions */
 .md-typeset .admonition p,
 .md-typeset .admonition ul,
 .md-typeset .admonition ol,
 .md-typeset .admonition li,
 .md-typeset .admonition blockquote {
-    color: white !important;
+  color: white !important;
 }
 
-/* Вариант 1 - Яркий салатовый */
+/* Общие стили для ссылок */
 .md-typeset .admonition a {
-    color: #c8e6c9 !important;
-    text-decoration: underline;
-    font-weight: 600 !important;
+  padding: 2px 4px !important;
+  border-radius: 3px !important;
+  transition: all 0.3s ease !important;
 }
 
-/* Вариант 2 - Светло-жёлтый */
-.md-typeset .admonition a {
-    color: #fff9c4 !important;
-    text-decoration: underline;
-    font-weight: 600 !important;
-}
-
-/* Вариант 3 - Неоновый зелёный */
-.md-typeset .admonition a {
-    color: #69f0ae !important;
-    text-decoration: underline;
-    font-weight: 600 !important;
-}
-
-/* ВСЕ ВКЛАДКИ КРАСИВЫЕ КАК ПАМЯТЬ */
-
-/* ВСЕ ВКЛАДКИ ОДИНАКОВЫЕ */
-
+/* Вкладки навигации (общие) */
 .md-tabs__item .md-tabs__link {
-    font-weight: 600 !important;
-    font-size: 0.9rem !important; /* Явно указываем размер */
-    background: linear-gradient(135deg, #00635a, #004d47) !important;
-    border-radius: 6px 6px 0 0 !important;
-    margin: 2px 4px -2px 4px !important;
-    padding: 8px 16px !important; /* Увеличим немного padding */
-    box-shadow: 0 1px 3px rgba(0,0,0,0.15) !important;
-    opacity: 0.85;
-    line-height: 1.4 !important; /* Добавляем line-height для выравнивания */
-    min-height: 40px !important; /* Минимальная высота для всех */
-    display: flex !important;
-    align-items: center !important;
+  font-weight: 600 !important;
+  font-size: 0.78rem !important;
+  border-radius: 3px 3px 0 0 !important;
+  margin: 2px 2px 0 0px !important;
+  padding: 8px 16px !important;
+  opacity: 0.85;
+  line-height: 1.5 !important;
+  min-height: 40px !important;
+  display: flex !important;
+  align-items: center !important;
 }
 
-/* Для светлой темы - уменьшаем тени */
-[data-md-color-scheme="default"] .md-tabs__item .md-tabs__link {
-    box-shadow: 0 2px 6px rgba(0,0,0,0.15) !important;
-}
-
-/* Иконки для вкладок */
-.md-tabs__item:nth-child(1) .md-tabs__link::before {
-    content: "🏠 ";
-    margin-right: 6px;
-}
-
-.md-tabs__item:nth-child(2) .md-tabs__link::before {
-    content: "📚 ";
-    margin-right: 6px;
-}
-
-.md-tabs__item:nth-child(3) .md-tabs__link::before {
-    content: "📖 ";
-    margin-right: 6px;
-}
-
-.md-tabs__item:nth-child(4) .md-tabs__link::before {
-    content: "🧠 ";
-    margin-right: 6px;
-}
-
-/* Красивое выделение заголовка сайта */
+/* Заголовок сайта */
 .md-header__topic {
-    position: relative;
+  position: relative;
 }
 
 .md-header__topic .md-ellipsis {
-    background: linear-gradient(135deg, #00b3a1, #80cbc4, #00b3a1) !important;
-    background-size: 200% 200% !important;
-    -webkit-background-clip: text !important;
-    background-clip: text !important;
-    -webkit-text-fill-color: transparent !important;
-    animation: gradient-shift 3s ease infinite !important;
-    font-weight: 700 !important;
-    font-size: 1.2em !important;
+  background: #dfd6d6 !important;
+  background-size: 200% 200% !important;
+  -webkit-background-clip: text !important;
+  background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  animation: gradient-shift 3s ease infinite !important;
+  font-weight: 700 !important;
+  font-size: 1.2em !important;
 }
 
 @keyframes gradient-shift {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
 }
 
-/* Убираем только активную ссылку в левой навигации */
+/* Навигация */
 .md-sidebar--primary .md-nav__item--active .md-nav__link {
-    display: none !important;
+  display: none !important;
 }
