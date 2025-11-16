@@ -22,7 +22,8 @@
         - [Perplexity AI](https://www.perplexity.ai/) (хорошая нейронка);
         - [NotebookLM](https://notebooklm.google/) (загрузка источников);
         - [Нейронка для создания приложений](https://chef.convex.dev/);
-        - [Геймификация программирования](https://coddy.tech/)
+        - [Геймификация программирования](https://coddy.tech/);
+        - [API документация](https://devdocs.io/)
 
     ??? "Git-репозитории"
         - [Туториалы для программирования](https://github.com/practical-tutorials/project-based-learning);
