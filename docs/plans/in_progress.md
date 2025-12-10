@@ -1,0 +1,2 @@
+- курс python (youtube и coddy);
+- C++ книга
