@@ -1,0 +1,24 @@
+```Red Alert 3 - Империя```
+
+- das Märchen — сказка;
+- schenken — дарить;
+- tragen — носить (одежду, украшения);
+- fangen — ловить;
+- die Geschichte — история, рассказ;
+- deshalb — поэтому;
+- der Korb — корзина;
+- Grüßen — поздороваться;
+- die Kräfte — сила, кадры, персонал;
+- beeilen — торопиться, спешить;
+- bleiben — оставаться;
+- das Ding — вещь, штука;
+- das Bild — картина;
+- frisch — свежий;
+- rauchen — курить;
+- versprechen — обещать;
+- treffen — натолкнуться, встретить;
+- böse — злой;
+- das Tier — животное;
+- schwach — слабый;
+- verrückt — шокирующий;
+- rufen — звать;
