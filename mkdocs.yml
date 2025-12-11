@@ -15,8 +15,8 @@ theme:
   name: material
   custom_dir: material/overrides
   features:
-    - content.action.edit
-    - content.action.view
+    # - content.action.edit
+    # - content.action.view
     - content.code.annotate
     - content.code.copy
     # - content.code.select
@@ -154,7 +154,12 @@ nav:
     - Цитаты: useful/citations.md
     - Саморазвитие: useful/self-development.md
     - Разное: useful/other.md
-    - Для системной аналитики: useful/SA.md
+    - Карьера:
+      - "Системный аналитик": 
+        - План на 30 дней: useful/SA/plan.md
+        - Рабочий лист по плану: useful/SA/work_in_progress.md
+        - Случайные заметки: useful/SA/random_notes.md
+
   - Чтение:
     - К прочтению: reading/to_read.md
     - В процессе: reading/in_progress.md
@@ -169,6 +174,7 @@ nav:
     - Английский: memory/english.md
     - Французский: memory/french.md
     - Для чисел: memory/numbers.md
+  - Стихотворения: poetry.md
   - Планы:
     - В процессе: plans/in_progress.md
     - Планируется: plans/to_do.md
