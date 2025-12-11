@@ -1,7 +1,5 @@
 ### **Английский**
 
-- *Alan Watts* — "The book on the taboo against knowing who you are
-Srewsna: The Questions You've ALWAYS Asked Yourself Finally Have ANSWERS";
 - *Burrows* — "Chemistry3";
 
 ### **Русский**
@@ -14,7 +12,6 @@ Srewsna: The Questions You've ALWAYS Asked Yourself Finally Have ANSWERS";
 - *Рейчел Карсон* — «Безмолвная весна»;
 - *Мишель де Монтень* — «Опыты»;
 - *Михаил Булыух*;
-- *Ален Карр* — «Как бросить курить»;
 - *Аркадий Аверченко*;
 - *Роберт Хайнлайн*;
 - *Абрахам Маслоу* — «Новые рубежи человеческой природы»;
@@ -126,3 +123,4 @@ Srewsna: The Questions You've ALWAYS Asked Yourself Finally Have ANSWERS";
 - *Сергей Кара-Мурза* — «Манипуляция сознанием»;
 - *Артемий Лебедев* — «Ководство»;
 - *Эрик Берн* — «Игры, в которые играют люди»;
+- *Стругацкие* — «Град обречённый»
