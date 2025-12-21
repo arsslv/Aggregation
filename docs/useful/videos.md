@@ -9,7 +9,8 @@
 - [Фракталы](https://youtu.be/EViaG2nM2hE?si=sxicu9elfhHT--kI);
 - [Тон и обертоны](https://youtu.be/AiORNtF8-Fg?si=p1rRjolgG2GQJoaE);
 - [Как работает визуальный юмор](https://youtu.be/J_6GkV5BSxc?si=BmRh6eVkiUydLBPI);
-- [Quantum mechanics](https://youtu.be/ctXDXABJRtg?si=E7H8dEtRbfYngWs2)
+- [Quantum mechanics](https://youtu.be/ctXDXABJRtg?si=E7H8dEtRbfYngWs2);
+- [Calculus](https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5)
 
 
 ### **Личность и мотивация**

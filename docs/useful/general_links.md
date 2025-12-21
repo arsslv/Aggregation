@@ -2,10 +2,8 @@
 
 - [SQL и поимка преступников](https://sqlpd.com/);
 - [Упражнения на разные группы мышц](https://www.getmistapp.com/exercise-guide/);
-- [Создание ИИ-агентов](https://github.com/microsoft/ai-agents-for-beginners/);
 - [C++ поэтапно](https://www.learncpp.com/);
 - [SQL квест](https://dbquacks.com/);
-- [40 гайдов по созданию ИИ-агентов](https://github.com/NirDiamant/agents-towards-production);
 - [Тренировка чтения и понимания кода](https://www.whatitprints.com/) (*возможно, нужен VPN*);
 - [Шпаргалки по языкам](https://quickref.me/) (*возможно, нужен VPN*);
 - [Редактирование PDF](https://lightpdf.com/);
@@ -15,7 +13,6 @@
 - [Игра Git](https://ohmygit.org/);
 - [Промпты для фото](https://huggingface.co/spaces/Yuanshi/OminiControl);
 - [Визуализация текста](https://www.napkin.ai/pricing/) (платная подписка);
-- [Perplexity AI](https://www.perplexity.ai/) (хорошая нейронка);
 - [NotebookLM](https://notebooklm.google/) (загрузка источников);
 - [Нейронка для создания приложений](https://chef.convex.dev/);
 - [Геймификация программирования](https://coddy.tech/);
@@ -25,7 +22,10 @@
 - [Туториалы для программирования](https://github.com/practical-tutorials/project-based-learning);
 - [Создать собственные проекты](https://github.com/codecrafters-io/build-your-own-x);
 - [План по становлению инженером-программистом](https://github.com/jwasham/coding-interview-university);
-- [Обновляемые вакансии](https://github.com/SimplifyJobs/Summer2026-Internships)
+- [Обновляемые вакансии](https://github.com/SimplifyJobs/Summer2026-Internships);
+- [Набор бесплатных приложений для iPhone](https://github.com/dkhamsing/open-source-ios-apps);
+- [Создание ИИ-агентов](https://github.com/microsoft/ai-agents-for-beginners/);
+- [40 гайдов по созданию ИИ-агентов](https://github.com/NirDiamant/agents-towards-production);
 
 ### **Компании для отправки резюме**
 - [Buffer](https://buffer.com/);
