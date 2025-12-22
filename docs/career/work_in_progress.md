@@ -1,4 +1,4 @@
-## Основные обязанности системного аналитика 
+## **1. Основные обязанности системного аналитика** 
 
 ### **Глоссарий**
 
@@ -58,7 +58,7 @@
 
 ---
 
-## Жизненный цикл разработки ПО
+## **2. Жизненный цикл разработки ПО**
 
 ### **Глоссарий**
 
@@ -132,7 +132,7 @@
 
 ---
 
-## **Иерархия требований: от стратегии к деталям**
+## **3. Иерархия требований: от стратегии к деталям**
 
 ### **Глоссарий**
 
@@ -215,3 +215,369 @@
 > Несоблюдение NFR (например, медленная работа или постоянные падения) может привести к полному провалу продукта, даже если все функции реализованы. 
 
 > Бизнес-цель («увеличить число заказов») не будет достигнута, если пользователи удалят зависающее приложение.
+
+
+
+
+## **5. UML-диаграммы и BPMN-нотации**
+
+### **Глоссарий**
+
+### **Общая информация**
+
+### **UML-диаграммы**
+
+UML (Unified Modeling Language) — стандартизированный язык графического моделирования для спецификации, визуализации, проектирования и документирования архитектуры программных систем.
+
+Диаграммы делятся на:
+
+- структурные — **что** в системе есть;
+- поведенческие — **как** система работает.
+
+#### **Структурные диаграммы**
+
+##### **Диаграмма классов (Class Diagram)**
+
+- показывает статическую структуру системы — классы, их атрибуты, методы и связи;
+- элементы — класс (прямоугольник с 3 секциями: имя, атрибуты, методы), связи (ассоциация, агрегация, композиция, наследование).
+
+??? "Class Diagram"
+
+    ``` mermaid
+        classDiagram
+    direction LR
+    class Customer {
+        -id: int
+        -name: string
+        -email: string
+        -phone: string
+        +register()
+        +placeOrder() Order
+        +getOrderHistory() Order[]
+    }
+    
+    class Order {
+        -orderId: int
+        -date: DateTime
+        -status: string
+        -totalAmount: decimal
+        +create()
+        +calculateTotal()
+        +cancel()
+        +updateStatus()
+    }
+    
+    class Product {
+        -productId: int
+        -name: string
+        -description: string
+        -price: decimal
+        -stockQuantity: int
+        +updateStock()
+        +getAvailability() bool
+    }
+    
+    class OrderItem {
+        -quantity: int
+        -unitPrice: decimal
+        +calculateSubtotal() decimal
+    }
+    
+    Customer "1" --> "0..*" Order : places
+    Order "1" --> "1..*" OrderItem : contains
+    OrderItem "1" --> "1" Product : references
+    
+    class Payment {
+        <<abstract>>
+        -amount: decimal
+        -date: DateTime
+        +process() bool
+    }
+    
+    class CreditCardPayment {
+        -cardNumber: string
+        -expiryDate: string
+        -cvv: string
+        +validateCard() bool
+        +process() bool
+    }
+    
+    class PayPalPayment {
+        -email: string
+        +process() bool
+    }
+    
+    Payment <|-- CreditCardPayment
+    Payment <|-- PayPalPayment
+    Order "1" --> "1" Payment : has
+    ```
+
+##### **Диаграмма компонентов (Component Diagram)**
+
+- показывает физические компоненты системы (модули, библиотеки, файлы) и их зависимости;
+- используется для проектирования архитектуры.
+
+??? "Component Diagram"
+
+
+
+    ``` mermaid
+    graph TD
+    subgraph "Платформа электронной коммерции"
+        UI[Web Interface] --> API[API Gateway]
+        
+        subgraph "Бизнес-сервисы"
+        API --> Auth[Authentication Service]
+        API --> Catalog[Product Catalog]
+        API --> Order[Order Service]
+        API --> Payment[Payment Service]
+        end
+        
+        subgraph "Инфраструктура"
+        DB1[(Customer DB)]
+        DB2[(Product DB)]
+        DB3[(Order DB)]
+        Cache[(Redis Cache)]
+        Queue[(Message Queue)]
+        end
+        
+        Auth --> DB1
+        Catalog --> DB2
+        Order --> DB3
+        Payment --> Queue
+        Order --> Cache
+    end
+    
+    External[External Payment Gateway] <--> Payment
+    ```
+
+##### **Диаграмма развёртывания (Deployment Diagram)** 
+
+Показывает физическое размещение компонентов на серверах и оборудовании.
+
+??? "Deployment Diagram"
+
+    ``` mermaid
+    graph TB
+    subgraph "Облачный провайдер AWS"
+        subgraph "VPC: 10.0.0.0/16"
+        subgraph "Public Subnet A"
+            LB[Application Load Balancer<br/>ALB]
+        end
+        
+        subgraph "Private Subnet A"
+            App1[App Server 1<br/>t3.medium]
+            App2[App Server 2<br/>t3.medium]
+        end
+        
+        subgraph "Private Subnet B"
+            DB1[Primary Database<br/>RDS PostgreSQL]
+            DB2[Read Replica<br/>RDS PostgreSQL]
+        end
+        
+        subgraph "Private Subnet C"
+            Cache[ElastiCache Redis]
+            Queue[SQS Queue]
+        end
+        end
+    end
+    
+    Internet --> LB
+    LB --> App1
+    LB --> App2
+    App1 --> DB1
+    App2 --> DB1
+    DB1 -.-> DB2
+    App1 --> Cache
+    App2 --> Cache
+    App1 --> Queue
+    App2 --> Queue
+    
+    style LB fill:#e1f5fe
+    style App1 fill:#f3e5f5
+    style DB1 fill:#e8f5e8
+    style Cache fill:#fff3e0
+    ```
+#### **Поведенческие диаграммы**
+
+##### **Диаграмма вариантов использования (Use Case Diagram)**
+
+- показывает взаимодействие акторов (пользователей, систем) с системой;
+- элементы: актор (человечек), вариант использования (овал), связи (ассоциация, include, extend).
+
+??? "Use Case Diagram"
+
+    ``` mermaid
+    graph TD
+    actor Customer as "Покупатель"
+    actor Manager as "Менеджер"
+    actor Admin as "Администратор"
+    actor System as "Платежная система"
+    
+    Customer --> Browse[Просмотр каталога]
+    Customer --> Search[Поиск товаров]
+    Customer --> Cart[Работа с корзиной]
+    Customer --> Order[Оформление заказа]
+    Customer --> Track[Отслеживание заказа]
+    Customer --> Review[Написание отзыва]
+    
+    Cart --> AddItem[Добавить товар]
+    Cart --> RemoveItem[Удалить товар]
+    Cart --> UpdateQty[Изменить количество]
+    
+    Order --> Checkout[Перейти к оплате]
+    Checkout --> Payment[Оплата заказа]
+    Payment --> System
+    
+    Manager --> ManageOrders[Управление заказами]
+    Manager --> ManageProducts[Управление товарами]
+    Manager --> Reports[Просмотр отчетов]
+    
+    Admin --> UserManagement[Управление пользователями]
+    Admin --> SystemConfig[Конфигурация системы]
+    Admin --> Backup[Резервное копирование]
+    
+    ManageOrders -.->|include| ChangeStatus[Изменение статуса]
+    ManageOrders -.->|include| ViewDetails[Просмотр деталей]
+    
+    Payment -.->|extend| ApplyPromo[Применить промокод]
+    
+    note right of ApplyPromo
+        Расширяет основной сценарий оплаты
+        при наличии активного промокода
+    end note
+
+    ```
+
+##### **Диаграмма последовательности (Sequence Diagram)**
+
+- показывает временную последовательность сообщений между объектами;
+- идеальна для описания сложных сценариев взаимодействия
+
+??? "Sequence Diagram"
+
+    ``` mermaid
+    sequenceDiagram
+    autonumber
+    participant User as Пользователь
+    participant UI as Веб-интерфейс
+    participant Auth as Сервис аутентификации
+    participant API as API Gateway
+    participant Order as Сервис заказов
+    participant Payment as Платежный сервис
+    participant Stock as Сервис склада
+    participant Notify as Сервис уведомлений
+    
+    User->>UI: Добавить товар в корзину
+    UI->>API: POST /api/cart/add
+    API->>Auth: Валидация токена
+    Auth-->>API: Успешно (user_id=123)
+    API->>Order: Обновить корзину
+    Order-->>API: Корзина обновлена
+    API-->>UI: 200 OK
+    UI-->>User: Товар добавлен
+    
+    User->>UI: Нажать "Оформить заказ"
+    UI->>API: POST /api/orders/create
+    API->>Order: Создать заказ
+    Order->>Stock: Проверить наличие товара
+    Stock-->>Order: Товары доступны
+    Order->>Stock: Зарезервировать товары
+    Stock-->>Order: Товары зарезервированы
+    Order-->>API: Заказ создан (id=456)
+    
+    API->>Payment: Создать платеж
+    Payment-->>API: Ссылка на оплату
+    API-->>UI: Данные для оплаты
+    UI-->>User: Переход на страницу оплаты
+    
+    User->>Payment: Оплатить заказ
+    Payment-->>User: Подтверждение оплаты
+    Payment->>Order: Обновить статус на "Оплачен"
+    Order->>Stock: Подтвердить резервирование
+    Order->>Notify: Отправить уведомление
+    Notify-->>User: Email с подтверждением
+
+    ```
+
+##### **Диаграмма состояний (State Machine Diagram)**
+
+- показывает жизненный цикл объекта — состояния и переходы между ними;
+- отлично подходит для документирования статусов заказов, документов.
+
+??? "State Machine Diagram"
+
+    ``` mermaid
+    stateDiagram-v2
+    [*] --> Новый
+    
+    Новый --> Проверка : submit()
+    Проверка --> Одобрен : approve()
+    Проверка --> Отклонен : reject()
+    
+    Одобрен --> ВПроцессе : startProcessing()
+    ВПроцессе --> НаПаузе : pause()
+    НаПаузе --> ВПроцессе : resume()
+    
+    ВПроцессе --> Завершен : complete()
+    Завершен --> [*]
+    
+    Отклонен --> [*]
+    
+    state Проверка {
+        [*] --> ПроверкаДанных
+        ПроверкаДанных --> Верификация
+        Верификация --> [*]
+    }
+    
+    note right of Проверка
+        Включает проверку
+        данных и верификацию
+    end note
+    ```
+
+##### **Диаграмма деятельности (Activity Diagram)**
+
+- похожа на блок-схему, но с расширенными возможностями (параллельные потоки, дорожки);
+- часто используется для описания бизнес-процессов.
+
+??? "Activity Diagram"
+
+    ``` mermaid
+    flowchart TD
+    A([Начало процесса]) --> B[Пользователь открывает форму]
+    B --> C{Все обязательные поля заполнены?}
+    C -->|Нет| D[Показать ошибки валидации]
+    D --> B
+    C -->|Да| E[Отправить данные на сервер]
+    
+    subgraph F [Обработка на сервере]
+        direction LR
+        F1[Проверка данных] --> F2[Валидация бизнес-правил] --> F3[Сохранение в БД]
+    end
+    
+    E --> F
+    F --> G{Сохранение успешно?}
+    G -->|Нет| H[Записать ошибку в лог]
+    H --> I[Вернуть ошибку клиенту]
+    I --> J[Показать сообщение об ошибке]
+    
+    G -->|Да| K[Создать связанные записи]
+    K --> L[Отправить email-подтверждение]
+    L --> M[Обновить кеш]
+    M --> N[Показать сообщение об успехе]
+    
+    J --> O([Конец процесса])
+    N --> O
+    
+    style A fill:#c8e6c9
+    style O fill:#ffcdd2
+
+    ```
+
+> Когда использовать UML:
+
+> - проектирование архитектуры (диаграммы классов, компонентов);
+> - анализ требований (use case, последовательности);
+> - описание сложной логики (состояний, последовательностей);
+> - коммуникация с разработчиками (все диаграммы UML — их родной язык).
