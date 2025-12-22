@@ -154,11 +154,8 @@ nav:
     - Цитаты: useful/citations.md
     - Саморазвитие: useful/self-development.md
     - Разное: useful/other.md
-    - Карьера:
-      - "Системный аналитик": 
-        - План на 30 дней: useful/SA/plan.md
-        - Рабочий лист по плану: useful/SA/work_in_progress.md
-        - Случайные заметки: useful/SA/random_notes.md
+      
+        
 
   - Чтение:
     - К прочтению: reading/to_read.md
@@ -175,6 +172,12 @@ nav:
     - Французский: memory/french.md
     - Для чисел: memory/numbers.md
   - Стихотворения: poetry.md
+  - Карьера:
+    - Профессии:
+      - "Системный аналитик": 
+        - План (30 дней): career/plan.md
+        - Рабочий лист по плану: career/work_in_progress.md
+        - Случайные заметки: career/random_notes.md
   - Планы:
     - В процессе: plans/in_progress.md
     - Планируется: plans/to_do.md

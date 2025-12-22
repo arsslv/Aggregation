@@ -37,3 +37,9 @@
 - [Mentor Collective](https://mentorcollective.jazz.co/);
 - [Knotch](https://www.knotch.com/careers#roles)
 
+
+### **Статьи к прочтению**
+
+- [Эссе, Демиан](https://dzen.ru/a/Ybcdzb2w0l7EvrWj);
+- [Группа Дятлова](https://proza.ru/2020/06/05/2060)
+
