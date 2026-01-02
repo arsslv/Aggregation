@@ -75,6 +75,7 @@ plugins:
   - minify:
       minify_html: true
 
+
 # Hooks
 hooks:
   - material/overrides/hooks/shortcodes.py
@@ -158,9 +159,14 @@ nav:
         
 
   - Чтение:
-    - К прочтению: reading/to_read.md
-    - В процессе: reading/in_progress.md
-    - Прочитано: reading/done.md
+    - Список книг:
+      - К прочтению: reading/to_read.md
+      - В процессе: reading/in_progress.md
+      - Прочитано: reading/done.md
+    - Анализ книг:
+      - "Introduction to Computing Systems":
+        - Анализ по главам: reading/IntroToCompSyst/chapters.md
+        - Вопросы после глав: reading/IntroToCompSyst/questions.md
   - Память:
     - Химия: memory/chemistry.md
     - Алкоголь: memory/alcohol.md
