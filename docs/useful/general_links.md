@@ -26,6 +26,7 @@
 - [Набор бесплатных приложений для iPhone](https://github.com/dkhamsing/open-source-ios-apps);
 - [Создание ИИ-агентов](https://github.com/microsoft/ai-agents-for-beginners/);
 - [40 гайдов по созданию ИИ-агентов](https://github.com/NirDiamant/agents-towards-production);
+- [OpenScreen для записи экрана](https://github.com/siddharthvaddem/openscreen?tab=readme-ov-file)
 
 ### **Компании для отправки резюме**
 - [Buffer](https://buffer.com/);
@@ -41,5 +42,9 @@
 ### **Статьи к прочтению**
 
 - [Эссе, Демиан](https://dzen.ru/a/Ybcdzb2w0l7EvrWj);
-- [Группа Дятлова](https://proza.ru/2020/06/05/2060)
+- [Группа Дятлова](https://proza.ru/2020/06/05/2060);
+- [О едком и не очень](https://habr.com/ru/amp/publications/451010/);
+- [Про кинескоп на приставке](https://dzen.ru/a/Ye7wxIo2lUy_ZZYh);
+- [Hemi-Sync](https://dzen.ru/a/ZCgjPxMCLi57Ru7W);
+- [A Review of the Status of Brain Structure Research in Transsexualism](https://pmc.ncbi.nlm.nih.gov/articles/PMC4987404/)
 

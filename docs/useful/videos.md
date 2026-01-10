@@ -14,13 +14,17 @@
 - [What happens after 1 year of The Gateway Experience](https://youtu.be/kLEY1lIknOA?si=t68u4Iv-Jn3F4dhT);
 - [A Urologist explains semen retention](https://youtu.be/cjmoiEakV9k?si=qFuu9GtL_QqVkiKi);
 - [Atomic notes](https://youtu.be/GqrczIftYyA?si=8KYFTatvnAN6DROe);
-- [Глицин плюс N-ацетилцистеин](https://youtu.be/A4EBlBwIiKU?si=GTSdzz5Y5dXTOOWB)
+- [Глицин плюс N-ацетилцистеин](https://youtu.be/A4EBlBwIiKU?si=GTSdzz5Y5dXTOOWB);
+- [Reprogram Your Subconscious Mind | Dr. Joe Dispenza](https://youtu.be/T7s0hi5NBpY?si=5xd3N-w5V_Focy1M);
+- [The Power of Silence - A Buddhist and Zen Story](https://youtu.be/DDMcuD5vG5Y?si=7UazAc0yn7Wk38fn);
+- [Самый достоверный (единственный) метод улучшения памяти на 226%](https://youtu.be/i_xV8omVUdY?si=5DCu5K14dzGfyKBl);
+- [DO THIS EVERYDAY To Never Get Sick AGAIN!](https://youtu.be/c7MseR-eDkg?si=d1_e6ChTCGCSHkgV)
+
 
 
 ### **Личность и мотивация**
 
 - [Как перестать стесняться](https://www.youtube.com/watch?v=Lzm1sSeJh6k)
-- [Как за 20 часов научиться чему угодно](https://www.youtube.com/watch?v=ybhErOQw0UI);
 - [Как распознать ложь](https://www.youtube.com/watch?v=EHuvsmgHOxo);
 - [Как великие лидеры вдохновляют на действие](https://www.youtube.com/watch?v=7B2tFvkOZ0Q);
 - [Ваш язык тела может формировать то, кем вы являетесь](https://www.youtube.com/watch?v=V0d0HF2QpMw);
@@ -50,7 +54,17 @@
 - [Мысль изменила жизнь](https://youtu.be/U_BUR9yhgGI?si=ellIPEZxDxBisdQ3);
 - [Как тренировать мозг](https://youtu.be/ddVAB2ohMGU?si=vnRATPmuG2-SSk_P);
 - [when I did this exercise I made 50k in less than 24 hours... (the REAL flow state)](https://youtu.be/g65ZM8__I3s?si=aRKdH60TP8vBnsX8);
-- [Только 1% Делают Это](https://youtu.be/BgGVJyEGsrM?si=ULGODPbv6JmGGHi5)
+- [Только 1% Делают Это](https://youtu.be/BgGVJyEGsrM?si=ULGODPbv6JmGGHi5);
+- [How I Study 12 Hours a Day With 100% Focus](https://youtu.be/eP8JhBvJu0k?si=C7HCgaMP6VXTAS7J);
+- [You're Seeing This Video Because It's Time to Wake Up](https://youtu.be/0F-Am37jehU?si=qeFpI_Gy8CzsBaVq);
+- [This Story Will Break Your Ego & Return Your Spontaneity](https://youtu.be/kVUucq5PzkU?si=JVtNOIkakh4K8-Z1);
+- [Focusing Your Unconscious Mind: Learn Hard Concepts Intuitively (And Forever)](https://youtu.be/Dm68uFy6gus?si=L2mGOca2Eaols9cc);
+- [This Video Will Save You 9+ Years Of Your Life In 6 Minutes](https://youtu.be/oUoxlF_s7wk?si=4Q4HphtMTYZwmdUV);
+- [How to do ACTIVE RECALL Effectively?](https://youtu.be/IyvlgRf7u3Y?si=aSOrdcNk8u6xJt3R);
+- [How To Train Yourself To Be A Genius](https://youtu.be/3znAl0QH1eE?si=iEDsNSgSIgIA9aNg);
+- [My Biggest Studying Mistake - The Feynman Technique](https://youtu.be/IDB_3S1ezsc?si=EC5qpRgE2X4eaK7u);
+- [How to BE A MAN: essential and performative masculinity](https://youtu.be/92z27GM0BnE?si=8YHPEnkrOQcmbIe2);
+
 
 ### **Физические упражнения**
 
@@ -76,7 +90,7 @@
 - [Инфа про мышцы и физические упражнения](https://youtu.be/UNk-fMh1c60?si=66OqsAsEAMmYaWJZ)
 
 
-### **Речевые упражнения**
+### **Речь и коммуникация**
 
 - [Техника речи. Советы и упражнения](https://youtu.be/sdbUpeQ76TE?si=n1Ut-_fNdVNd3C0Y);
 - [How to speak articulately](https://www.youtube.com/watch?v=ldoYlkeq-w4);
@@ -84,7 +98,12 @@
 - [Дыхание](https://youtu.be/3qrB3zYfZ6Q?si=W2Ym3RINrN-bOboR);
 - [Словарный запас](https://youtu.be/-0gCf75bBsA?si=eXMijqKlcSMQWYdo);
 - [Красивая речь за 7 дней](https://youtu.be/MZR18D3cRKk?si=ipt6Tft24PV5jvgy);
-- [3 упражнения для голоса](https://youtu.be/vzWgLkG-aXs?si=zSpdUsGrgxFp-G9l)
+- [3 упражнения для голоса](https://youtu.be/vzWgLkG-aXs?si=zSpdUsGrgxFp-G9l);
+- [Articulate Yourself With Incredible Precision (3 Secrets)](https://youtu.be/TNxlOZc_pAc?si=rb7pjaA2FUnvssDT);
+- [3 Simple Exercises to Strengthen A Weak Voice](https://youtu.be/eBN0lCTMfLw?si=B9_GV2PByaymb3pc);
+- [Как улучшить ДИКЦИЮ и ЧЕТКОСТЬ РЕЧИ за 2 минуты](https://youtu.be/Iu_9-9OpZr0?si=VMF_jf82_VQSrGkR);
+- [Speak More Articulately Than 99% of People](https://youtu.be/Y0sibhk0fUk?si=euu91cYWg1VI4zqX);
+
 
 ### **IT**
 
@@ -95,8 +114,19 @@
 - [Python Course 1](https://youtu.be/ix9cRaBkVe0?si=gmiBDOnVSOuxkeOJ);
 - [Python Course 2](https://youtu.be/rM-jDeSgOQw?si=6mJA-SCd7vGvGB6y);
 - [Build a REST API in Python](https://youtu.be/Ha3ls0EAtW8?si=nxymxBKeIw0gjjE0);
-- [Сеньор, советы начинающим](https://youtu.be/9qcBzqUuUyM?si=qsgL6gDuAf4N4Ca1)
+- [Сеньор, советы начинающим](https://youtu.be/9qcBzqUuUyM?si=qsgL6gDuAf4N4Ca1);
+- [Курс по n8n](https://www.youtube.com/watch?v=UIf-SlmMays);
+- [How I Would Learn To Code](https://youtu.be/k9WqpQp8VSU?si=Dr3Hq2Imz1TYWQNF);
+- [the hacker’s roadmap](https://youtu.be/uTAaFExLgwQ?si=wpFphu47jzTdgXC6);
+- [Как бы я начал учить кодинг сейчас?](https://youtu.be/4kZjw4vKxTM?si=l-QbGOq74vfEGST5);
+- [How the Best Hackers Learn Their Craft](https://youtu.be/6vj96QetfTg?si=BMN2gx3QCi9nIbwr);
+- [Machine Learning Full Course - 12 Hours](https://www.youtube.com/live/N5fSpaaxoZc?si=0C6UrVXqgoEZo1Nd)
+
 
 ### **Финансы**
 
 - [Сложный процент](https://youtu.be/xe9dOSIZuHQ?si=I12BRntDz_ipc0EM);
+
+### **Медитации/аффирмации**
+
+- [Listen until the end for a complete rebalancing of the 7 chakras • Tibetan sounds](https://youtu.be/_MIJiZb24TA?si=CgQItG2f1x7vl53l);
