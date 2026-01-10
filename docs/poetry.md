@@ -107,3 +107,8 @@
 
 - [«Говори — словно боль заговаривай...»](https://lib.rmvoz.ru/bigzal/kenzheev/izbr#01) `21.12.2025`
 
+### **Дементьев Андрей Дмитриевич**
+
+- [Никогда ни о чем не жалейте](https://culture.ru/poems/8447/nikogda-ni-o-chem-ne-zhaleite) `10.01.2026`
+
+
