@@ -16,7 +16,8 @@
 - [NotebookLM](https://notebooklm.google/) (загрузка источников);
 - [Нейронка для создания приложений](https://chef.convex.dev/);
 - [Геймификация программирования](https://coddy.tech/);
-- [API документация](https://devdocs.io/)
+- [API документация](https://devdocs.io/);
+- [Manus Academy по ИИ-агентам](https://academy.manus.im/);
 
 ### **Git-репозитории**
 - [Туториалы для программирования](https://github.com/practical-tutorials/project-based-learning);
@@ -46,5 +47,8 @@
 - [О едком и не очень](https://habr.com/ru/amp/publications/451010/);
 - [Про кинескоп на приставке](https://dzen.ru/a/Ye7wxIo2lUy_ZZYh);
 - [Hemi-Sync](https://dzen.ru/a/ZCgjPxMCLi57Ru7W);
-- [A Review of the Status of Brain Structure Research in Transsexualism](https://pmc.ncbi.nlm.nih.gov/articles/PMC4987404/)
+- [A Review of the Status of Brain Structure Research in Transsexualism](https://pmc.ncbi.nlm.nih.gov/articles/PMC4987404/);
+- [Парадокс Ферми](https://waitbutwhy.com/2014/05/fermi-paradox.html);
+- [Нейромедиаторы](https://trends.rbc.ru/trends/amp/news/625803d19a7947aa3a546eda);
+- [Инверсия электронных населённостей](https://ru.ruwiki.ru/wiki/%D0%98%D0%BD%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D1%85_%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9);
 

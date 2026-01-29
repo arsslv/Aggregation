@@ -13,7 +13,8 @@
 - массаж шиацу;
 - марокканский душ;
 - COBOL;
-- Cinema Michele;
-- Барвиха;
+- Cinema Michele — кинотеатр в Angleterre;
+- Барвиха — кальянная;
 - Electrician Simulator;
-- сквирл
+- сквирл — настольные игры;
+- Juliette Has a Gune — духи
