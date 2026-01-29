@@ -64,6 +64,8 @@
 - [How To Train Yourself To Be A Genius](https://youtu.be/3znAl0QH1eE?si=iEDsNSgSIgIA9aNg);
 - [My Biggest Studying Mistake - The Feynman Technique](https://youtu.be/IDB_3S1ezsc?si=EC5qpRgE2X4eaK7u);
 - [How to BE A MAN: essential and performative masculinity](https://youtu.be/92z27GM0BnE?si=8YHPEnkrOQcmbIe2);
+- [The Breath of Life: Never Have A Bad Day Again](https://youtu.be/qd_4LmBZrVM?si=6KA0v8tz498KB7vh);
+- [3 INTENSELY POWERFUL Practices to Train Your Brain](https://youtu.be/GQSK6ghvfUw?si=CqOsw2JCsKfQkbo6);
 
 
 ### **Физические упражнения**
@@ -107,6 +109,7 @@
 
 ### **IT**
 
+- [Чем заниматься в IT решить через игру ](https://youtu.be/1LfrCwJa_dk?si=WCucD3KjHWAcmhcq);
 - [Building a neural network from scratch (no Tensorflow/Pytorch)](https://www.youtube.com/watch?v=w8yWXqWQYmU);
 - [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=250s);
 - [Reproduce GPT-2](https://youtu.be/l8pRSuU81PU?si=HcMgJmwi_3eAwI52);
@@ -120,7 +123,8 @@
 - [the hacker’s roadmap](https://youtu.be/uTAaFExLgwQ?si=wpFphu47jzTdgXC6);
 - [Как бы я начал учить кодинг сейчас?](https://youtu.be/4kZjw4vKxTM?si=l-QbGOq74vfEGST5);
 - [How the Best Hackers Learn Their Craft](https://youtu.be/6vj96QetfTg?si=BMN2gx3QCi9nIbwr);
-- [Machine Learning Full Course - 12 Hours](https://www.youtube.com/live/N5fSpaaxoZc?si=0C6UrVXqgoEZo1Nd)
+- [Machine Learning Full Course - 12 Hours](https://www.youtube.com/live/N5fSpaaxoZc?si=0C6UrVXqgoEZo1Nd);
+- [Getting started with Codex](https://www.youtube.com/watch?v=px7XlbYgk7I&t=1s)
 
 
 ### **Финансы**
