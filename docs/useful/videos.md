@@ -18,7 +18,8 @@
 - [Reprogram Your Subconscious Mind | Dr. Joe Dispenza](https://youtu.be/T7s0hi5NBpY?si=5xd3N-w5V_Focy1M);
 - [The Power of Silence - A Buddhist and Zen Story](https://youtu.be/DDMcuD5vG5Y?si=7UazAc0yn7Wk38fn);
 - [Самый достоверный (единственный) метод улучшения памяти на 226%](https://youtu.be/i_xV8omVUdY?si=5DCu5K14dzGfyKBl);
-- [DO THIS EVERYDAY To Never Get Sick AGAIN!](https://youtu.be/c7MseR-eDkg?si=d1_e6ChTCGCSHkgV)
+- [DO THIS EVERYDAY To Never Get Sick AGAIN!](https://youtu.be/c7MseR-eDkg?si=d1_e6ChTCGCSHkgV);
+- [Как хочет женщина | Эмили Нагоски](https://youtu.be/K5KxsSWvIKo?si=s_dRcjvMbIG550wa)
 
 
 
@@ -66,6 +67,10 @@
 - [How to BE A MAN: essential and performative masculinity](https://youtu.be/92z27GM0BnE?si=8YHPEnkrOQcmbIe2);
 - [The Breath of Life: Never Have A Bad Day Again](https://youtu.be/qd_4LmBZrVM?si=6KA0v8tz498KB7vh);
 - [3 INTENSELY POWERFUL Practices to Train Your Brain](https://youtu.be/GQSK6ghvfUw?si=CqOsw2JCsKfQkbo6);
+- [How to Fix Your Mindset](https://youtu.be/Kyn5SHf22hE?si=sWEev-By0bcUFJjg);
+- [This Graph Changed My Life](https://youtu.be/HdJwHx-QofA?si=D0OQeT7xJQ5u1M6m);
+- [DOPAMINE DETOX: Reset Your Mind in 1 Day](https://youtu.be/UgYFLwUPSYU?si=fiBBG4L9AaVXe9On);
+
 
 
 ### **Физические упражнения**
@@ -89,7 +94,8 @@
 - [Вим Хофф 2](https://youtu.be/LJLanvRn4Ec?si=aiKUUrXkbl0LL19d);
 - [Боли в пояснице](https://youtu.be/vZUlT4mGwBA?si=NeK_Ycog9wKRZ_hB);
 - [Боевой метод Брюса Ли](https://youtu.be/IaDne8wCy3M?si=7VbfEeAJdu_fAUne);
-- [Инфа про мышцы и физические упражнения](https://youtu.be/UNk-fMh1c60?si=66OqsAsEAMmYaWJZ)
+- [Инфа про мышцы и физические упражнения](https://youtu.be/UNk-fMh1c60?si=66OqsAsEAMmYaWJZ);
+- [How I Grew My Neck Thicker](https://youtu.be/Z6eRhXauwt4?si=OXFrEi6MyIqx7UzF)
 
 
 ### **Речь и коммуникация**
@@ -124,7 +130,8 @@
 - [Как бы я начал учить кодинг сейчас?](https://youtu.be/4kZjw4vKxTM?si=l-QbGOq74vfEGST5);
 - [How the Best Hackers Learn Their Craft](https://youtu.be/6vj96QetfTg?si=BMN2gx3QCi9nIbwr);
 - [Machine Learning Full Course - 12 Hours](https://www.youtube.com/live/N5fSpaaxoZc?si=0C6UrVXqgoEZo1Nd);
-- [Getting started with Codex](https://www.youtube.com/watch?v=px7XlbYgk7I&t=1s)
+- [Getting started with Codex](https://www.youtube.com/watch?v=px7XlbYgk7I&t=1s);
+- [Stanford's FREE data science book and course are the best yet](https://youtu.be/yNYflGw6kJI?si=KlTwXcsN8JFInfZ3)
 
 
 ### **Финансы**
