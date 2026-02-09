@@ -17,4 +17,8 @@
 - Барвиха — кальянная;
 - Electrician Simulator;
 - сквирл — настольные игры;
-- Juliette Has a Gune — духи
+- Juliette Has a Gune — духи;
+- меламиновая губка;
+- иппликатор Кузнецова;
+- Gentleman (1974) Givenchy — духи;
+
