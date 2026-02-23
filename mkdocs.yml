@@ -167,6 +167,8 @@ nav:
       - "Introduction to Computing Systems":
         - Анализ по главам: reading/IntroToCompSyst/chapters.md
         - Вопросы после глав: reading/IntroToCompSyst/questions.md
+      - "The Book on the Taboo":
+        - Анализ по главам: reading/TheBookOnTheTaboo/chapters.md
   - Память:
     - Химия: memory/chemistry.md
     - Алкоголь: memory/alcohol.md
