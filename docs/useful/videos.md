@@ -19,14 +19,15 @@
 - [The Power of Silence - A Buddhist and Zen Story](https://youtu.be/DDMcuD5vG5Y?si=7UazAc0yn7Wk38fn);
 - [Самый достоверный (единственный) метод улучшения памяти на 226%](https://youtu.be/i_xV8omVUdY?si=5DCu5K14dzGfyKBl);
 - [DO THIS EVERYDAY To Never Get Sick AGAIN!](https://youtu.be/c7MseR-eDkg?si=d1_e6ChTCGCSHkgV);
-- [Как хочет женщина | Эмили Нагоски](https://youtu.be/K5KxsSWvIKo?si=s_dRcjvMbIG550wa)
+- [Как хочет женщина | Эмили Нагоски](https://youtu.be/K5KxsSWvIKo?si=s_dRcjvMbIG550wa);
+- [Data Structures and Algorithms Full Course](https://youtu.be/CBYHwZcbD-s?si=VUMFwdE_oFtbj9ee);
+- [Machine Learning for Everybody – Full Course](https://youtu.be/i_LwzRVP7bg?si=y8tnZi6prYSmq3Fg)
 
 
 
 ### **Личность и мотивация**
 
-- [Как перестать стесняться](https://www.youtube.com/watch?v=Lzm1sSeJh6k)
-- [Как распознать ложь](https://www.youtube.com/watch?v=EHuvsmgHOxo);
+- [Как перестать стесняться](https://www.youtube.com/watch?v=Lzm1sSeJh6k);
 - [Как великие лидеры вдохновляют на действие](https://www.youtube.com/watch?v=7B2tFvkOZ0Q);
 - [Ваш язык тела может формировать то, кем вы являетесь](https://www.youtube.com/watch?v=V0d0HF2QpMw);
 - [Загадка мотивации](https://www.youtube.com/watch?v=XYVverzfRQc);
@@ -36,7 +37,6 @@
 - [Does mindfulness really work?](https://www.youtube.com/watch?v=RBg2i7ZsXgk&t=1s);
 - [The billion dollar routine you can copy](https://www.youtube.com/watch?v=ug5URf2AOuc);
 - [How to absorb textbooks like a sponge](https://www.youtube.com/watch?v=Xu7Yqxlc3ec);
-- [How to make every day so fun you don't even have time to scroll](https://www.youtube.com/watch?v=sYy1tiaRvcY);
 - [Give me 6:43 and I'll make you instantly more attractive](https://www.youtube.com/watch?v=eCgWqeyJFFQ);
 - [Why most people will remain in mediocrity](https://youtu.be/rH94x03Wl-M?si=C9GvIj7-HkF4c0qF);
 - [Mistakes that kill your charisma](https://youtu.be/sJ9eJuPdROs?si=pwpHU4WQwQ2q93-w);
@@ -70,6 +70,12 @@
 - [How to Fix Your Mindset](https://youtu.be/Kyn5SHf22hE?si=sWEev-By0bcUFJjg);
 - [This Graph Changed My Life](https://youtu.be/HdJwHx-QofA?si=D0OQeT7xJQ5u1M6m);
 - [DOPAMINE DETOX: Reset Your Mind in 1 Day](https://youtu.be/UgYFLwUPSYU?si=fiBBG4L9AaVXe9On);
+- [How to know your life purpose in 5 minutes](https://youtu.be/vVsXO9brK7M?si=xOwJKP-Dgi-oHcGy);
+- [How to enter ‘flow state’ on command](https://youtu.be/znwUCNrjpD4?si=mMVTbBEUAG750uVg);
+- [This Is For All Those Who Walk Alone](https://youtu.be/TR6rgiqZq1Y?si=lqAVlNPF3W1JyyOI);
+- [4 БИОХАКА На Каждый День](https://youtu.be/zTS9_s3w5uo?si=pGT_RiaQOjhaO04Q);
+- [Шишковидная железа: наслаждение гораздо большее, чем что-либо еще](https://youtu.be/sHf-9_OHAzE?si=0Wm9_t1wLVpTpzmH);
+- [Как учиться лучше всех? / Метод осознанной практики](https://youtu.be/5Ue60Oi0udo?si=Qh3y8-xcOIsC8zHS)
 
 
 
@@ -95,8 +101,17 @@
 - [Боли в пояснице](https://youtu.be/vZUlT4mGwBA?si=NeK_Ycog9wKRZ_hB);
 - [Боевой метод Брюса Ли](https://youtu.be/IaDne8wCy3M?si=7VbfEeAJdu_fAUne);
 - [Инфа про мышцы и физические упражнения](https://youtu.be/UNk-fMh1c60?si=66OqsAsEAMmYaWJZ);
-- [How I Grew My Neck Thicker](https://youtu.be/Z6eRhXauwt4?si=OXFrEi6MyIqx7UzF)
-
+- [How I Grew My Neck Thicker](https://youtu.be/Z6eRhXauwt4?si=OXFrEi6MyIqx7UzF);
+- [Ankle Exercises for Strength & Mobility](https://youtu.be/QV-x1tK7U4w?si=1s2HiDn8S9oDiojI);
+- [The 3 Most IMPORTANT Muscles To Stretch...That You Don't](https://youtu.be/dBa0QMTGTVc?si=Qo1NwJhS5Plp4-AE);
+- [How To Unlock Your Mobility in 5 Minutes (DAILY STRETCH)](https://youtu.be/sOuKeVuej9E?si=I6lRxpswaB8gnlR9);
+- [FIX Tight Hamstrings in Just 3 Steps](https://youtu.be/ui3ToKZtKIs?si=A1yOqqhlKw-N5iHx);
+- [The BEST Home Workout For SKINNY GUYS (No Equipment!)](https://youtu.be/HKPrBRvLPBo?si=g2FImK56qWJC054v);
+- [Glute Bridges Fix Your Glutes, Back, & Posture!](https://youtu.be/vXbfYIMAJZU?si=KNIFverHXT1cY0xq);
+- [Crab is the Antidote to Sitting and it Feels GREAT](https://youtu.be/HMAKPhmSlYM?si=vnem3XxTFGFiBkCe);
+- [The PERFECT Mobility Routine To Get Your Sh*t Together!](https://youtu.be/TSIbzfcnv_8?si=XuCoWSZsiZcpunbB);
+- [Лучшее упражнение для спины и осанки ](https://youtu.be/GZKDrzKkeiA?si=GnqIsgNr4qnzKn5E);
+- [ИСПРАВЬ ЭТО! Гиперлордоз](https://youtu.be/Qz7zMYvrFLw?si=kEAHZc4eqSY1kvMV);
 
 ### **Речь и коммуникация**
 
@@ -111,6 +126,7 @@
 - [3 Simple Exercises to Strengthen A Weak Voice](https://youtu.be/eBN0lCTMfLw?si=B9_GV2PByaymb3pc);
 - [Как улучшить ДИКЦИЮ и ЧЕТКОСТЬ РЕЧИ за 2 минуты](https://youtu.be/Iu_9-9OpZr0?si=VMF_jf82_VQSrGkR);
 - [Speak More Articulately Than 99% of People](https://youtu.be/Y0sibhk0fUk?si=euu91cYWg1VI4zqX);
+- [The 5 Vocal Foundations of Great Communication](https://youtu.be/CuaY4qe4V34?si=TPHQwWLhp5PCgatw);
 
 
 ### **IT**
@@ -131,7 +147,14 @@
 - [How the Best Hackers Learn Their Craft](https://youtu.be/6vj96QetfTg?si=BMN2gx3QCi9nIbwr);
 - [Machine Learning Full Course - 12 Hours](https://www.youtube.com/live/N5fSpaaxoZc?si=0C6UrVXqgoEZo1Nd);
 - [Getting started with Codex](https://www.youtube.com/watch?v=px7XlbYgk7I&t=1s);
-- [Stanford's FREE data science book and course are the best yet](https://youtu.be/yNYflGw6kJI?si=KlTwXcsN8JFInfZ3)
+- [Stanford's FREE data science book and course are the best yet](https://youtu.be/yNYflGw6kJI?si=KlTwXcsN8JFInfZ3);
+- [Python if __name__ == '__main__': Visually Explained](https://youtu.be/KZpYtNtGxSU?si=zAC2cYx48XWJPmDr);
+- [Predict The Stock Market With Machine Learning And Python](https://youtu.be/1O_BenficgE?si=Al34bKd1CaamknWu);
+- [Harvard's Free coding courses are excellent. You need to take them.](https://youtu.be/WwEcPcfRlD0?si=zZSBpUvjM0mLzPgw);
+- [How I would learn Machine Learning (if I could start over)](https://youtu.be/wtolixa9XTg?si=g9y_-RdUwPHwGmVI);
+- [How I would learn to code (If I could start over)](https://youtu.be/9s29LKfEFjQ?si=6bPXWHEeVqPhYGVZ);
+
+
 
 
 ### **Финансы**

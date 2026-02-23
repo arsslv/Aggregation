@@ -51,5 +51,7 @@
 - [Парадокс Ферми](https://waitbutwhy.com/2014/05/fermi-paradox.html);
 - [Нейромедиаторы](https://trends.rbc.ru/trends/amp/news/625803d19a7947aa3a546eda);
 - [Инверсия электронных населённостей](https://ru.ruwiki.ru/wiki/%D0%98%D0%BD%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D1%85_%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9);
-- [Проект без документации](https://habr.com/ru/companies/alfa/articles/853396/)
+- [Проект без документации](https://habr.com/ru/companies/alfa/articles/853396/);
+- [Meshtastic](https://habr.com/ru/articles/568394/);
+- [ИскИн](https://trends.rbc.ru/trends/futurology/64afc14b9a7947c2b17251ed)
 
