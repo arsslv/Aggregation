@@ -1,6 +1,7 @@
 ### **Английский**
 
 - *Burrows* — "Chemistry3";
+- *Atkins* — "Physical Chemistry";
 - *Alex Michaelides* — "The Silent Patient"
 
 ### **Русский**
