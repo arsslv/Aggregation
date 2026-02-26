@@ -21,7 +21,9 @@
 - [DO THIS EVERYDAY To Never Get Sick AGAIN!](https://youtu.be/c7MseR-eDkg?si=d1_e6ChTCGCSHkgV);
 - [Как хочет женщина | Эмили Нагоски](https://youtu.be/K5KxsSWvIKo?si=s_dRcjvMbIG550wa);
 - [Data Structures and Algorithms Full Course](https://youtu.be/CBYHwZcbD-s?si=VUMFwdE_oFtbj9ee);
-- [Machine Learning for Everybody – Full Course](https://youtu.be/i_LwzRVP7bg?si=y8tnZi6prYSmq3Fg)
+- [Machine Learning for Everybody – Full Course](https://youtu.be/i_LwzRVP7bg?si=y8tnZi6prYSmq3Fg);
+- [Imagining 10 Dimensions - the Movie](https://youtu.be/gg85IH3vghA?si=HUM_6WGGf6rutqJ2);
+- [TMP Chem - Recommended Textbooks](https://youtu.be/Hy0VNn6ewUU?si=j5k8vL_4x9DU7bsu)
 
 
 
@@ -30,7 +32,6 @@
 - [Как перестать стесняться](https://www.youtube.com/watch?v=Lzm1sSeJh6k);
 - [Как великие лидеры вдохновляют на действие](https://www.youtube.com/watch?v=7B2tFvkOZ0Q);
 - [Ваш язык тела может формировать то, кем вы являетесь](https://www.youtube.com/watch?v=V0d0HF2QpMw);
-- [Загадка мотивации](https://www.youtube.com/watch?v=XYVverzfRQc);
 - [10 способов улучшить разговор](https://www.youtube.com/watch?v=DZdWXb2_7W4);
 - [Сила страсти и настойчивости](https://www.youtube.com/watch?v=knbVvNB43ms);
 - [How to use your imagination to get anything you want](https://www.youtube.com/watch?v=r34E0pSCLPs);
@@ -75,7 +76,22 @@
 - [This Is For All Those Who Walk Alone](https://youtu.be/TR6rgiqZq1Y?si=lqAVlNPF3W1JyyOI);
 - [4 БИОХАКА На Каждый День](https://youtu.be/zTS9_s3w5uo?si=pGT_RiaQOjhaO04Q);
 - [Шишковидная железа: наслаждение гораздо большее, чем что-либо еще](https://youtu.be/sHf-9_OHAzE?si=0Wm9_t1wLVpTpzmH);
-- [Как учиться лучше всех? / Метод осознанной практики](https://youtu.be/5Ue60Oi0udo?si=Qh3y8-xcOIsC8zHS)
+- [Как учиться лучше всех? / Метод осознанной практики](https://youtu.be/5Ue60Oi0udo?si=Qh3y8-xcOIsC8zHS);
+- [Dr. Joe Dispenza - Learn How to Reprogram Your Mind](https://youtu.be/rXGDAq6FnXo?si=xQBBc0-68AFENJE2);
+- [Why I'm able to study 70+ hours a week and not burn out (how to stay efficient)](https://youtu.be/FARXrLsBNJY?si=Fpzk2E4Evh0kM4VN);
+- [The Quickest Way To Regain Your Energy Without Caffeine](https://youtu.be/1ilWAMCNBW8?si=cmU4aQPt_vIneq0W);
+- [Earl Nightingale - WINNERS ATTITUDE](https://youtu.be/TApxX1Tbo6w?si=8gqepn5oziacWZmq);
+- [Hack Your Brain With Elaborate Coping Mechanisms](https://youtu.be/XUZ9VATeF_4?si=2inU0iCwmmF9m4zh);
+- [DOPAMINE DETOX: Trick Your Brain To Love Doing Hard Things](https://youtu.be/_vcGF3HqZXg?si=WLCwoDEAOJoXXGdU);
+- [How To Unlock Insane Focus On Command](https://youtu.be/l86xggdQcKQ?si=ImYgzplmqKo9u5G_);
+- [Jordan Peterson Teaches a Shy Kid How to Communicate](https://youtu.be/Fnt6P7Rnho8?si=tv1drwb5DdAE7ZnU);
+- [Делай это, и 50% тревожности уйдет!](https://youtu.be/jLMkyCI_AtY?si=lXy5vcIE5_-aTQaB);
+- [Neville Goddard | How To Use Your IMAGINATION To Get Anything You Want](https://youtu.be/r34E0pSCLPs?si=Dk-H0aDo8tFvYpPB);
+- [Neville Goddard Once You Do This You Will Manifest It After 2 days](https://youtu.be/wCQDH88-_rw?si=iybYe3Ue1nL-2Qcv);
+- [I Did Andrew Huberman’s Routine For 14 Days (Brain hacking without nootropics)](https://youtu.be/Nnuj-tBkQUc?si=xZqhP7ko3XZ4hNL1);
+- [The Danger of Active Recall](https://youtu.be/96VbRWUPAA0?si=LzIjYxA0GoBEXT1I);
+- [Полная Перезагрузка Мозга за 7 Дней - Что творит Дофамин](https://youtu.be/56s6S3HZD4E?si=9t1cp1Ns3TNNshEt)
+
 
 
 
@@ -98,6 +114,7 @@
 - [Legs workout](https://youtu.be/zFRC3G8GDRw?si=ZG4jjYMasew_GCrH);
 - [Вим Хофф 1](https://youtu.be/J-07t8B7CQc?si=PvskzpiPkRXMO9Hj);
 - [Вим Хофф 2](https://youtu.be/LJLanvRn4Ec?si=aiKUUrXkbl0LL19d);
+- [Wim Hof The Iceman Demonstrates His Breathing Technique with Lewis Howes](https://youtu.be/RW1C_3OXhEs?si=60CthpAtNkIinsnc)
 - [Боли в пояснице](https://youtu.be/vZUlT4mGwBA?si=NeK_Ycog9wKRZ_hB);
 - [Боевой метод Брюса Ли](https://youtu.be/IaDne8wCy3M?si=7VbfEeAJdu_fAUne);
 - [Инфа про мышцы и физические упражнения](https://youtu.be/UNk-fMh1c60?si=66OqsAsEAMmYaWJZ);
@@ -112,6 +129,13 @@
 - [The PERFECT Mobility Routine To Get Your Sh*t Together!](https://youtu.be/TSIbzfcnv_8?si=XuCoWSZsiZcpunbB);
 - [Лучшее упражнение для спины и осанки ](https://youtu.be/GZKDrzKkeiA?si=GnqIsgNr4qnzKn5E);
 - [ИСПРАВЬ ЭТО! Гиперлордоз](https://youtu.be/Qz7zMYvrFLw?si=kEAHZc4eqSY1kvMV);
+- [Бей правильно и УДАР НЕ УВИДЯТ](https://youtu.be/hU6Sdd9BAyQ?si=Q2YBEg-qjc8C8woS);
+- [Calisthenics for Beginners | In Depth Step-by-Step Guide to Building Strength and Muscle](https://youtu.be/vczr0WuYK9g?si=2btIJ0cr0FgiSPtm);
+- [НАЧИНАЙ УТРО С ЭТОГО](https://youtu.be/JJYZd6IabFs?si=S3TPPmUR8rV6v9Fa);
+- [Если один раз это упражнение сделаешь сутулиться не сможешь больше никогда](https://youtu.be/DxCryFQiDGs?si=tg7R8vnI-b3yeabQ);
+- [The Most Powerful Exercise You Are Probably Not Doing](https://youtu.be/yDhKU_z2t3Q?si=dlt6T8ZJt120eBMa);
+
+
 
 ### **Речь и коммуникация**
 
@@ -127,6 +151,12 @@
 - [Как улучшить ДИКЦИЮ и ЧЕТКОСТЬ РЕЧИ за 2 минуты](https://youtu.be/Iu_9-9OpZr0?si=VMF_jf82_VQSrGkR);
 - [Speak More Articulately Than 99% of People](https://youtu.be/Y0sibhk0fUk?si=euu91cYWg1VI4zqX);
 - [The 5 Vocal Foundations of Great Communication](https://youtu.be/CuaY4qe4V34?si=TPHQwWLhp5PCgatw);
+- [Is Your Voice Ruining Your Life?](https://youtu.be/Acl6owhFMHQ?si=ZL3RdVwY8_C27gNK);
+- [Improve Your Voice - Daily Articulation Exercises](https://youtu.be/3Qjr9nWh5cU?si=fuRCQb2DtpvLPSQe);
+- [Как улучшить дикцию / 5 упражнений для дикции и скороговорка о любви](https://youtu.be/vhq3G2p2eVc?si=g-uDB3eOg8epyIK5)
+- [Красивый низкий мужской голос](https://youtu.be/IbMg7cXGVf0?si=DAu3MwpMoxQRbVPu);
+
+
 
 
 ### **IT**
@@ -153,6 +183,8 @@
 - [Harvard's Free coding courses are excellent. You need to take them.](https://youtu.be/WwEcPcfRlD0?si=zZSBpUvjM0mLzPgw);
 - [How I would learn Machine Learning (if I could start over)](https://youtu.be/wtolixa9XTg?si=g9y_-RdUwPHwGmVI);
 - [How I would learn to code (If I could start over)](https://youtu.be/9s29LKfEFjQ?si=6bPXWHEeVqPhYGVZ);
+- [God-Tier Developer Roadmap](https://youtu.be/pEfrdAtAmqk?si=vwEBp95fhWjA8mDo);
+- [PyTorch for Deep Learning & Machine Learning – Full Course](https://youtu.be/V_xro1bcAuA?si=1yJHoNR3nqpjCRGL)
 
 
 
@@ -164,3 +196,6 @@
 ### **Медитации/аффирмации**
 
 - [Listen until the end for a complete rebalancing of the 7 chakras • Tibetan sounds](https://youtu.be/_MIJiZb24TA?si=CgQItG2f1x7vl53l);
+- [Повышение самооценки и уверенности в себе](https://youtu.be/prMnWCf5lO4?si=0gnxr7-1eN5hzlm0);
+- [Медитация на Исполнение желаний, здоровье, богатство и изобилие](https://youtu.be/xOH9u5Wbf8A?si=mK_lQT3aHUxw_VBD);
+- [Полная Медитация на Исцеление тела и Исполнение любых желаний](https://youtu.be/nWM4NTl2Ghk?si=rgWrbPg14k2s6lkP)
