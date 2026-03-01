@@ -1,4 +1,4 @@
-### **Образовательные ресурсы**
+### **Полезные ссылки**
 
 - [SQL и поимка преступников](https://sqlpd.com/);
 - [Упражнения на разные группы мышц](https://www.getmistapp.com/exercise-guide/);
@@ -18,6 +18,7 @@
 - [Геймификация программирования](https://coddy.tech/);
 - [API документация](https://devdocs.io/);
 - [Manus Academy по ИИ-агентам](https://academy.manus.im/);
+- [Проверка мест в самолёте](https://seatmaps.com/)
 
 ### **Git-репозитории**
 - [Туториалы для программирования](https://github.com/practical-tutorials/project-based-learning);
