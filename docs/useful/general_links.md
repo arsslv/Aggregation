@@ -18,7 +18,8 @@
 - [Геймификация программирования](https://coddy.tech/);
 - [API документация](https://devdocs.io/);
 - [Manus Academy по ИИ-агентам](https://academy.manus.im/);
-- [Проверка мест в самолёте](https://seatmaps.com/)
+- [Проверка мест в самолёте](https://seatmaps.com/);
+- [ИИ для изучения языков](https://talkpal.ai/)
 
 ### **Git-репозитории**
 - [Туториалы для программирования](https://github.com/practical-tutorials/project-based-learning);
