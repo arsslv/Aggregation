@@ -23,7 +23,8 @@
 - [Data Structures and Algorithms Full Course](https://youtu.be/CBYHwZcbD-s?si=VUMFwdE_oFtbj9ee);
 - [Machine Learning for Everybody – Full Course](https://youtu.be/i_LwzRVP7bg?si=y8tnZi6prYSmq3Fg);
 - [Imagining 10 Dimensions - the Movie](https://youtu.be/gg85IH3vghA?si=HUM_6WGGf6rutqJ2);
-- [TMP Chem - Recommended Textbooks](https://youtu.be/Hy0VNn6ewUU?si=j5k8vL_4x9DU7bsu)
+- [TMP Chem - Recommended Textbooks](https://youtu.be/Hy0VNn6ewUU?si=j5k8vL_4x9DU7bsu);
+- [Нефть и экология](https://youtu.be/_HbEl-2n5AQ?si=8imhADqtWelk8hqb)
 
 
 
