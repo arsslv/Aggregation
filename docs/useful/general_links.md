@@ -19,7 +19,10 @@
 - [API документация](https://devdocs.io/);
 - [Manus Academy по ИИ-агентам](https://academy.manus.im/);
 - [Проверка мест в самолёте](https://seatmaps.com/);
-- [ИИ для изучения языков](https://talkpal.ai/)
+- [ИИ для изучения языков](https://talkpal.ai/);
+- [Мониторинг политической ситуации в мире](https://www.trendmoney.biz/dashboard);
+- [Перекидывать файлы между девайсами](https://tangoshare.com/);
+- [Подборка курсов и книг по программированию](https://github.com/EbookFoundation/free-programming-books?tab=readme-ov-file)
 
 ### **Git-репозитории**
 - [Туториалы для программирования](https://github.com/practical-tutorials/project-based-learning);
