@@ -32,7 +32,8 @@
 - [Набор бесплатных приложений для iPhone](https://github.com/dkhamsing/open-source-ios-apps);
 - [Создание ИИ-агентов](https://github.com/microsoft/ai-agents-for-beginners/);
 - [40 гайдов по созданию ИИ-агентов](https://github.com/NirDiamant/agents-towards-production);
-- [OpenScreen для записи экрана](https://github.com/siddharthvaddem/openscreen?tab=readme-ov-file)
+- [OpenScreen для записи экрана](https://github.com/siddharthvaddem/openscreen?tab=readme-ov-file);
+- [Прокачивание ИИ-агентов](https://github.com/softaworks/agent-toolkit)
 
 ### **Компании для отправки резюме**
 - [Buffer](https://buffer.com/);
