@@ -13,7 +13,6 @@
 - [Calculus](https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5);
 - [What happens after 1 year of The Gateway Experience](https://youtu.be/kLEY1lIknOA?si=t68u4Iv-Jn3F4dhT);
 - [A Urologist explains semen retention](https://youtu.be/cjmoiEakV9k?si=qFuu9GtL_QqVkiKi);
-- [Atomic notes](https://youtu.be/GqrczIftYyA?si=8KYFTatvnAN6DROe);
 - [Глицин плюс N-ацетилцистеин](https://youtu.be/A4EBlBwIiKU?si=GTSdzz5Y5dXTOOWB);
 - [Reprogram Your Subconscious Mind | Dr. Joe Dispenza](https://youtu.be/T7s0hi5NBpY?si=5xd3N-w5V_Focy1M);
 - [The Power of Silence - A Buddhist and Zen Story](https://youtu.be/DDMcuD5vG5Y?si=7UazAc0yn7Wk38fn);
