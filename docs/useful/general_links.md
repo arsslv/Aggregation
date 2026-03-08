@@ -21,8 +21,7 @@
 - [Проверка мест в самолёте](https://seatmaps.com/);
 - [ИИ для изучения языков](https://talkpal.ai/);
 - [Мониторинг политической ситуации в мире](https://www.trendmoney.biz/dashboard);
-- [Перекидывать файлы между девайсами](https://tangoshare.com/);
-- [Подборка курсов и книг по программированию](https://github.com/EbookFoundation/free-programming-books?tab=readme-ov-file)
+- [Перекидывать файлы между девайсами](https://tangoshare.com/)
 
 ### **Git-репозитории**
 - [Туториалы для программирования](https://github.com/practical-tutorials/project-based-learning);
@@ -33,7 +32,8 @@
 - [Создание ИИ-агентов](https://github.com/microsoft/ai-agents-for-beginners/);
 - [40 гайдов по созданию ИИ-агентов](https://github.com/NirDiamant/agents-towards-production);
 - [OpenScreen для записи экрана](https://github.com/siddharthvaddem/openscreen?tab=readme-ov-file);
-- [Прокачивание ИИ-агентов](https://github.com/softaworks/agent-toolkit)
+- [Прокачивание ИИ-агентов](https://github.com/softaworks/agent-toolkit);
+- [Подборка курсов и книг по программированию](https://github.com/EbookFoundation/free-programming-books?tab=readme-ov-file)
 
 ### **Компании для отправки резюме**
 - [Buffer](https://buffer.com/);
