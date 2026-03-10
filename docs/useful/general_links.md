@@ -35,7 +35,7 @@
 - [Прокачивание ИИ-агентов](https://github.com/softaworks/agent-toolkit);
 - [Подборка курсов и книг по программированию](https://github.com/EbookFoundation/free-programming-books?tab=readme-ov-file)
 
-### **Компании для отправки резюме**
+### **Сайты для поиска работы**
 - [Buffer](https://buffer.com/);
 - [Toggl](https://toggl.com/);
 - [Help Scout](https://www.helpscout.com/company/careers/);
@@ -43,7 +43,9 @@
 - [Studio Alt](https://studio-alt.ru/#section-1);
 - [PlayVS](https://jobs.lever.co/playvs);
 - [Mentor Collective](https://mentorcollective.jazz.co/);
-- [Knotch](https://www.knotch.com/careers#roles)
+- [Knotch](https://www.knotch.com/careers#roles);
+- [getmatch](https://getmatch.ru/);
+- [geekjob](https://geekjob.ru/)
 
 
 ### **Статьи к прочтению**
