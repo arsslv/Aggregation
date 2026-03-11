@@ -68,7 +68,7 @@
 ### **Мандельштам Осип Эмильевич**
 
 - [«Сохрани мою речь навсегда...»](https://www.culture.ru/poems/41796/sokhrani-moyu-rech-navsegda) `23.01.2022`;
-- [«За гремучую доблесть грядущих веков...»](https://www.culture.ru/poems/3125/ya-ne-predal-beloe-znamya) `23.01.2022`
+- [«За гремучую доблесть грядущих веков...»](https://www.culture.ru/poems/41749/za-gremuchuyu-doblest-gryadushikh-vekov) `23.01.2022`
 
 ### **Заболоцкий Николай Алексеевич**
 
