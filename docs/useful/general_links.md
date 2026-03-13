@@ -21,7 +21,10 @@
 - [Проверка мест в самолёте](https://seatmaps.com/);
 - [ИИ для изучения языков](https://talkpal.ai/);
 - [Мониторинг политической ситуации в мире](https://www.trendmoney.biz/dashboard);
-- [Перекидывать файлы между девайсами](https://tangoshare.com/)
+- [Перекидывать файлы между девайсами](https://tangoshare.com/);
+- [Генератор статических сайтов VitePress](https://vitepress.dev/ru/guide/what-is-vitepress) (*возможно, нужен VPN*);
+- [AI-ready vector datasets](https://n8n.io/workflows/4219-create-ai-ready-vector-datasets-from-web-content-with-claude-ollama-and-qdrant/);
+- [Cline agent](https://cline.bot/)
 
 ### **Git-репозитории**
 - [Туториалы для программирования](https://github.com/practical-tutorials/project-based-learning);
@@ -33,7 +36,8 @@
 - [40 гайдов по созданию ИИ-агентов](https://github.com/NirDiamant/agents-towards-production);
 - [OpenScreen для записи экрана](https://github.com/siddharthvaddem/openscreen?tab=readme-ov-file);
 - [Прокачивание ИИ-агентов](https://github.com/softaworks/agent-toolkit);
-- [Подборка курсов и книг по программированию](https://github.com/EbookFoundation/free-programming-books?tab=readme-ov-file)
+- [Подборка курсов и книг по программированию](https://github.com/EbookFoundation/free-programming-books?tab=readme-ov-file);
+- [mcp-attlassian](https://github.com/sooperset/mcp-atlassian/tree/main)
 
 ### **Сайты для поиска работы**
 - [Buffer](https://buffer.com/);
