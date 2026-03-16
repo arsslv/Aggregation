@@ -24,7 +24,10 @@
 - [Перекидывать файлы между девайсами](https://tangoshare.com/);
 - [Генератор статических сайтов VitePress](https://vitepress.dev/ru/guide/what-is-vitepress) (*возможно, нужен VPN*);
 - [AI-ready vector datasets](https://n8n.io/workflows/4219-create-ai-ready-vector-datasets-from-web-content-with-claude-ollama-and-qdrant/);
-- [Cline agent](https://cline.bot/)
+- [Cline agent](https://cline.bot/);
+- [ИИ для поиска работы](https://soprovodai.ru/);
+- [Anthropic курсы](https://anthropic.skilljar.com/) (*возможно, нужен VPN*)
+
 
 ### **Git-репозитории**
 - [Туториалы для программирования](https://github.com/practical-tutorials/project-based-learning);
@@ -37,7 +40,8 @@
 - [OpenScreen для записи экрана](https://github.com/siddharthvaddem/openscreen?tab=readme-ov-file);
 - [Прокачивание ИИ-агентов](https://github.com/softaworks/agent-toolkit);
 - [Подборка курсов и книг по программированию](https://github.com/EbookFoundation/free-programming-books?tab=readme-ov-file);
-- [mcp-attlassian](https://github.com/sooperset/mcp-atlassian/tree/main)
+- [mcp-attlassian](https://github.com/sooperset/mcp-atlassian/tree/main);
+- [Набор ИИ-агентов](https://vk.com/away.php?to=https%3A%2F%2Fgithub.com%2Fmsitarzewski%2Fagency-agents&utf=1)
 
 ### **Сайты для поиска работы**
 - [Buffer](https://buffer.com/);
@@ -66,5 +70,6 @@
 - [Проект без документации](https://habr.com/ru/companies/alfa/articles/853396/);
 - [Meshtastic](https://habr.com/ru/articles/568394/);
 - [ИскИн](https://trends.rbc.ru/trends/futurology/64afc14b9a7947c2b17251ed);
-- [ROWE-принципы](https://rb.ru/columns/what-is-rowe/)
+- [ROWE-принципы](https://rb.ru/columns/what-is-rowe/);
+- [Тренажёр по BPMN](https://habr.com/ru/articles/1007438/)
 
