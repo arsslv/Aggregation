@@ -41,7 +41,7 @@
 - [Прокачивание ИИ-агентов](https://github.com/softaworks/agent-toolkit);
 - [Подборка курсов и книг по программированию](https://github.com/EbookFoundation/free-programming-books?tab=readme-ov-file);
 - [mcp-attlassian](https://github.com/sooperset/mcp-atlassian/tree/main);
-- [Набор ИИ-агентов](https://vk.com/away.php?to=https%3A%2F%2Fgithub.com%2Fmsitarzewski%2Fagency-agents&utf=1)
+- [Набор ИИ-агентов](https://github.com/msitarzewski/agency-agents)
 
 ### **Сайты для поиска работы**
 - [Buffer](https://buffer.com/);
