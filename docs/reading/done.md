@@ -7,4 +7,5 @@
 
 ### **Английский**
 
-- *Ralph Ellison* — "Invisible man"
+- *Ralph Ellison* — "Invisible man";
+- *Therry Pratchett* — "The Unadulterated Cat";
