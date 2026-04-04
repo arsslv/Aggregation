@@ -1,10 +1,8 @@
 ### **Полезные ссылки**
 
-- [SQL и поимка преступников](https://sqlpd.com/);
 - [Упражнения на разные группы мышц](https://www.getmistapp.com/exercise-guide/);
 - [C++ поэтапно](https://www.learncpp.com/);
 - [SQL квест](https://dbquacks.com/);
-- [Тренировка чтения и понимания кода](https://www.whatitprints.com/) (*возможно, нужен VPN*);
 - [Шпаргалки по языкам](https://quickref.me/) (*возможно, нужен VPN*);
 - [Редактирование PDF](https://lightpdf.com/);
 - [Сериалы на английском с вокабуляром](https://listeninenglish.com/index.php);
@@ -41,7 +39,8 @@
 - [Прокачивание ИИ-агентов](https://github.com/softaworks/agent-toolkit);
 - [Подборка курсов и книг по программированию](https://github.com/EbookFoundation/free-programming-books?tab=readme-ov-file);
 - [mcp-attlassian](https://github.com/sooperset/mcp-atlassian/tree/main);
-- [Набор ИИ-агентов](https://github.com/msitarzewski/agency-agents)
+- [Набор ИИ-агентов](https://github.com/msitarzewski/agency-agents);
+- [Полезные проекты](https://github.com/Furthir/awesome-useful-projects)
 
 ### **Сайты для поиска работы**
 - [Buffer](https://buffer.com/);
