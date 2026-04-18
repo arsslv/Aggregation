@@ -1,2 +1,2 @@
-- TypeScript и ИИ-агенты (см. git-ссылки)
-
+- TypeScript;
+- [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575/syllabus)
