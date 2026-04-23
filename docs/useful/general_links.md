@@ -33,7 +33,6 @@
 - [План по становлению инженером-программистом](https://github.com/jwasham/coding-interview-university);
 - [Обновляемые вакансии](https://github.com/SimplifyJobs/Summer2026-Internships);
 - [Набор бесплатных приложений для iPhone](https://github.com/dkhamsing/open-source-ios-apps);
-- [Создание ИИ-агентов](https://github.com/microsoft/ai-agents-for-beginners/);
 - [40 гайдов по созданию ИИ-агентов](https://github.com/NirDiamant/agents-towards-production);
 - [OpenScreen для записи экрана](https://github.com/siddharthvaddem/openscreen?tab=readme-ov-file);
 - [Прокачивание ИИ-агентов](https://github.com/softaworks/agent-toolkit);
@@ -70,5 +69,6 @@
 - [Meshtastic](https://habr.com/ru/articles/568394/);
 - [ИскИн](https://trends.rbc.ru/trends/futurology/64afc14b9a7947c2b17251ed);
 - [ROWE-принципы](https://rb.ru/columns/what-is-rowe/);
-- [Тренажёр по BPMN](https://habr.com/ru/articles/1007438/)
+- [Тренажёр по BPMN](https://habr.com/ru/articles/1007438/);
+- [Имплементации питона](https://habr.com/ru/articles/209812/)
 
