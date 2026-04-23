@@ -1,3 +1,2 @@
 - *Patt, Patel* — "Introduction to computing systems";
-- [AI-agents for beginners](https://github.com/microsoft/ai-agents-for-beginners/);
 - [Курс «Python: основы и применение»](https://stepik.org/course/512/syllabus)
