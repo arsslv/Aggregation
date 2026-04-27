@@ -111,4 +111,9 @@
 
 - [Никогда ни о чем не жалейте](https://culture.ru/poems/8447/nikogda-ni-o-chem-ne-zhaleite) `10.01.2026`
 
+### **Джозеф Редьярд Киплинг**
+
+- [«Серые глаза — рассвет...»](https://www.askbooka.ru/stihi/redyard-kipling/serye-glaza-rassvet.html) `27.04.2026`
+
+
 

@@ -1,30 +1,21 @@
 ### **Полезные ссылки**
 
-- [Упражнения на разные группы мышц](https://www.getmistapp.com/exercise-guide/);
-- [C++ поэтапно](https://www.learncpp.com/);
-- [SQL квест](https://dbquacks.com/);
-- [Шпаргалки по языкам](https://quickref.me/) (*возможно, нужен VPN*);
-- [Редактирование PDF](https://lightpdf.com/);
-- [Сериалы на английском с вокабуляром](https://listeninenglish.com/index.php);
-- [Игра-запоминание-угадывание слов](https://babadum.com/);
+- [Упражнения на разные группы мышц](https://www.getmistapp.com/exercise-guide/) (*нужен VPN*);
+- [C++ поэтапно](https://www.learncpp.com/) (*нужен VPN*);
+- [SQL квест](https://dbquacks.com/) (*нужен VPN*);
+- [Шпаргалки по языкам программирования](https://quickref.me/);
+- [Редактирование PDF](https://lightpdf.com/) (*нужен VPN*);
 - [Сайт для презентаций](https://gamma.app/);
-- [Игра Git](https://ohmygit.org/);
-- [Промпты для фото](https://huggingface.co/spaces/Yuanshi/OminiControl);
-- [Визуализация текста](https://www.napkin.ai/pricing/) (платная подписка);
-- [NotebookLM](https://notebooklm.google/) (загрузка источников);
-- [Нейронка для создания приложений](https://chef.convex.dev/);
-- [Геймификация программирования](https://coddy.tech/);
 - [API документация](https://devdocs.io/);
-- [Manus Academy по ИИ-агентам](https://academy.manus.im/);
+- [Курсы по созданию ИИ-workflows](https://academy.manus.im/);
 - [Проверка мест в самолёте](https://seatmaps.com/);
-- [ИИ для изучения языков](https://talkpal.ai/);
-- [Мониторинг политической ситуации в мире](https://www.trendmoney.biz/dashboard);
+- [Мониторинг политической ситуации в мире](https://www.trendmoney.biz/dashboard) (*нужен VPN*);
 - [Перекидывать файлы между девайсами](https://tangoshare.com/);
-- [Генератор статических сайтов VitePress](https://vitepress.dev/ru/guide/what-is-vitepress) (*возможно, нужен VPN*);
+- [Генератор статических сайтов VitePress](https://vitepress.dev/ru/guide/what-is-vitepress) (*нужен VPN*);
 - [AI-ready vector datasets](https://n8n.io/workflows/4219-create-ai-ready-vector-datasets-from-web-content-with-claude-ollama-and-qdrant/);
-- [Cline agent](https://cline.bot/);
 - [ИИ для поиска работы](https://soprovodai.ru/);
-- [Anthropic курсы](https://anthropic.skilljar.com/) (*возможно, нужен VPN*)
+- [Anthropic курсы](https://anthropic.skilljar.com/) (*нужен VPN*)
+- [Git Mastery](https://gitmastery.me/)
 
 
 ### **Git-репозитории**
