@@ -1,2 +1,3 @@
 - TypeScript;
-- [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575/syllabus)
+- [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575/syllabus);
+- [Курс по REST API](https://starkovden.github.io/index.html)
