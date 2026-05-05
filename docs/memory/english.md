@@ -158,4 +158,15 @@
 - carom ['kærəm] — карамболь;
 - caveat ['keɪvɪæt] — оговорка, нюанс
 - FUBAR (Fucked Up Beyond All Recognition) — аббревиатура из американского армейского сленга времен Второй мировой войны — полный бардак, катастрофическая неразбериха;
-- to equivocate — говорить двусмысленно, увиливать
+- to equivocate — говорить двусмысленно, увиливать;
+- mistrial — судебный процесс, в ходе которого допущены нарушения закона;
+- IED (improvised explosive device) — самодельное взрывное устройство;
+- arraignment — официальное предъявление обвинения в суде;
+- honeypot — наживка, ловушка;
+- patsy — козёл отпущения;
+- renal — почечный;
+- R & R (rest and relaxation / or rest and recreation) — отдых и восстановление сил;
+- tourniquet ['tʊənikei] — жгут;
+- funnel — воронка
+- GSW (gun shot wound) — огнестрельная рана;
+- honest to a fault — чересчур честный
