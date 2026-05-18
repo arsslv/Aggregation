@@ -14,8 +14,9 @@
 - [Генератор статических сайтов VitePress](https://vitepress.dev/ru/guide/what-is-vitepress) (*нужен VPN*);
 - [AI-ready vector datasets](https://n8n.io/workflows/4219-create-ai-ready-vector-datasets-from-web-content-with-claude-ollama-and-qdrant/);
 - [ИИ для поиска работы](https://soprovodai.ru/);
-- [Anthropic курсы](https://anthropic.skilljar.com/) (*нужен VPN*)
-- [Git Mastery](https://gitmastery.me/)
+- [Anthropic курсы](https://anthropic.skilljar.com/) (*нужен VPN*);
+- [Git Mastery](https://gitmastery.me/);
+- [Гайд для Сербии](https://www.srb.guide/guides/personal/beli-karton/).
 
 
 ### **Git-репозитории**
@@ -30,7 +31,7 @@
 - [Подборка курсов и книг по программированию](https://github.com/EbookFoundation/free-programming-books?tab=readme-ov-file);
 - [mcp-attlassian](https://github.com/sooperset/mcp-atlassian/tree/main);
 - [Набор ИИ-агентов](https://github.com/msitarzewski/agency-agents);
-- [Полезные проекты](https://github.com/Furthir/awesome-useful-projects)
+- [Полезные проекты](https://github.com/Furthir/awesome-useful-projects).
 
 ### **Сайты для поиска работы**
 - [Buffer](https://buffer.com/);
@@ -42,7 +43,7 @@
 - [Mentor Collective](https://mentorcollective.jazz.co/);
 - [Knotch](https://www.knotch.com/careers#roles);
 - [getmatch](https://getmatch.ru/);
-- [geekjob](https://geekjob.ru/)
+- [geekjob](https://geekjob.ru/).
 
 
 ### **Статьи к прочтению**
@@ -61,5 +62,5 @@
 - [ИскИн](https://trends.rbc.ru/trends/futurology/64afc14b9a7947c2b17251ed);
 - [ROWE-принципы](https://rb.ru/columns/what-is-rowe/);
 - [Тренажёр по BPMN](https://habr.com/ru/articles/1007438/);
-- [Имплементации питона](https://habr.com/ru/articles/209812/)
+- [Имплементации питона](https://habr.com/ru/articles/209812/).
 
