@@ -31,7 +31,8 @@
 - [Подборка курсов и книг по программированию](https://github.com/EbookFoundation/free-programming-books?tab=readme-ov-file);
 - [mcp-attlassian](https://github.com/sooperset/mcp-atlassian/tree/main);
 - [Набор ИИ-агентов](https://github.com/msitarzewski/agency-agents);
-- [Полезные проекты](https://github.com/Furthir/awesome-useful-projects).
+- [Полезные проекты](https://github.com/Furthir/awesome-useful-projects);
+- [Computer Science Route](https://github.com/ossu/computer-science).
 
 ### **Сайты для поиска работы**
 - [Buffer](https://buffer.com/);
