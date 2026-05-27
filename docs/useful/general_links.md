@@ -16,7 +16,8 @@
 - [ИИ для поиска работы](https://soprovodai.ru/);
 - [Anthropic курсы](https://anthropic.skilljar.com/) (*нужен VPN*);
 - [Git Mastery](https://gitmastery.me/);
-- [Гайд для Сербии](https://www.srb.guide/guides/personal/beli-karton/).
+- [Гайд для Сербии](https://www.srb.guide/guides/personal/beli-karton/);
+- [Скачивать книги](https://shadowlibraries.github.io/DirectDownloads/AnnasArchive/).
 
 
 ### **Git-репозитории**
@@ -34,17 +35,17 @@
 - [Полезные проекты](https://github.com/Furthir/awesome-useful-projects);
 - [Computer Science Route](https://github.com/ossu/computer-science).
 
-### **Сайты для поиска работы**
-- [Buffer](https://buffer.com/);
-- [Toggl](https://toggl.com/);
-- [Help Scout](https://www.helpscout.com/company/careers/);
-- [Stripe](https://stripe.com/);
-- [Studio Alt](https://studio-alt.ru/#section-1);
-- [PlayVS](https://jobs.lever.co/playvs);
-- [Mentor Collective](https://mentorcollective.jazz.co/);
-- [Knotch](https://www.knotch.com/careers#roles);
+### **Иностранные компании / поиск работы**
+- [Buffer](https://buffer.com/journey) — цифровой контент;
+- [Toggl](https://toggl.com/jobs/#jobs) — учёт времени;
+- [Help Scout](https://www.helpscout.com/company/careers/) — служба поддержки и общение с клиентами;
+- [Stripe](https://stripe.com/jobs/search) — облачная платёжная система;
+- [Knotch](https://www.knotch.com/careers#roles) — аналитика и оптимизация цифрового контента;
+- [Innodata](https://innodatacareers.com/) — AI;
+- [Fundraise Up](https://fundraiseup.com/careers/) — IT, финтех;
 - [getmatch](https://getmatch.ru/);
 - [geekjob](https://geekjob.ru/).
+
 
 
 ### **Статьи к прочтению**
