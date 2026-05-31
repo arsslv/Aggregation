@@ -165,9 +165,6 @@ nav:
       - В процессе: reading/in_progress.md
       - Прочитано: reading/done.md
     - Анализ книг:
-      - "Introduction to Computing Systems":
-        - Анализ по главам: reading/IntroToCompSyst/chapters.md
-        - Вопросы после глав: reading/IntroToCompSyst/questions.md
       - "The Book on the Taboo":
         - Анализ по главам: reading/TheBookOnTheTaboo/chapters.md
   - Память:
