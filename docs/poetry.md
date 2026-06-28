@@ -1,15 +1,15 @@
 ### **Arthur Rimbaud**
 
-- [Sensation](https://www.poetica.fr/poeme-533/arthur-rimbaud-sensation/) `31.03.2016`;
-- [Ophélie](https://www.poetica.fr/poeme-1034/arthur-rimbaud-ophelie/) `05.04.2016`.
+- [Sensation](https://www.mag4.net/Rimbaud/poesies/Sensation.html) `31.03.2016`;
+- [Ophélie](https://www.mag4.net/Rimbaud/poesies/Ophelie.html) `05.04.2016`.
 
 ### **Charles Baudelaire**
 
-- [L'invitation au voyage](https://lesvoixdelapoesie.ca/lire/poemes/linvitation-au-voyage) `28.03.2016`.
+- [L'invitation au voyage](https://fleursdumal.org/poem/148) `28.03.2016`.
 
 ### **Асадов Эдуард Аркадьевич**
 
-- [Одна](https://www.culture.ru/poems/46749/odna) `04.01.2023`.
+- [Одна](https://slova.org.ru/asadov/odna/) `04.01.2023`.
 
 ### **Ахмадулина Изабелла Ахатовна**
 
@@ -17,33 +17,33 @@
 
 ### **Ахматова Анна Андреевна**
 
-- [«Когда в тоске самоубийства...»](https://www.culture.ru/poems/10230/kogda-v-toske-samoubiistva) `24.08.2015`.
+- [«Когда в тоске самоубийства...»](https://slova.org.ru/ahmatova/kogdavtoske/) `24.08.2015`.
 
 ### **Бальмонт Константин Дмитриевич**
 
-- [Я не из тех](https://www.culture.ru/poems/31766/ya-ne-iz-tekh) `02.01.2023`.
+- [Я не из тех](https://rupoem.ru/poets/balmont/ya-ne-iz) `02.01.2023`.
 
 ### **Блок Александр Александрович**
 
-- [«О доблестях, о подвигах, о славе...»](https://www.culture.ru/poems/2565/o-doblestyakh-o-podvigakh-o-slave) `06.11.2016`;
-- [«Я не предал белое знамя...»](https://www.culture.ru/poems/3125/ya-ne-predal-beloe-znamya) `07.11.2016`.
+- [«О доблестях, о подвигах, о славе...»](https://rupoem.ru/poets/blok/o-doblestyax-o) `06.11.2016`;
+- [«Я не предал белое знамя...»](https://slova.org.ru/blok/ya_ne_predal_beloe_znamya/) `07.11.2016`.
 
 ### **Бродский Иосиф Александрович**
 
-- [«Дорогая, я вышел сегодня из дому поздно вечером...»](https://www.culture.ru/poems/31030/dorogaya-ya-vyshel-segodnya-iz-domu-pozdno-vecherom) `23.07.2022`;
-- [Шесть лет спустя](https://www.culture.ru/poems/30477/shest-let-spustya) `11.12.2025`.
+- [«Дорогая, я вышел сегодня из дому поздно вечером...»](https://www.askbooka.ru/stihi/iosif-brodskiy/dorogaya-ya-vyshel-segodnya-iz-domu-pozdno-vecherom.html) `23.07.2022`;
+- [Шесть лет спустя](https://slova.org.ru/brodskiy/shest-let-spustya/) `11.12.2025`.
 
 ### **Брюсов Валерий Яковлевич**
 
-- [Буря с берега](https://www.culture.ru/poems/16508/burya-s-berega) `10.07.2022`.
+- [Буря с берега](https://stihoteka.ru/valerij-brjusov/burya-s-berega/) `10.07.2022`.
 
 ### **Бунин Иван Алексеевич**
 
-- [Призраки](https://www.culture.ru/poems/26954/prizraki) `01.09.2015`.
+- [Призраки](https://ilibrary.ru/text/3466/p.1/index.html) `01.09.2015`.
 
 ### **Дементьев Андрей Дмитриевич**
 
-- [Никогда ни о чем не жалейте](https://culture.ru/poems/8447/nikogda-ni-o-chem-ne-zhaleite) `10.01.2026`.
+- [Никогда ни о чем не жалейте](https://www.asu.ru/university_life/culture/poetry/news/new_on_site/16981/) `10.01.2026`.
 
 ### **Джозеф Редьярд Киплинг**
 
@@ -51,20 +51,20 @@
 
 ### **Есенин Сергей Александрович**
 
-- [«Ах, как много на свете кошек...»](https://www.culture.ru/poems/43910/akh-kak-mnogo-na-svete-koshek) `07.08.2015`;
-- [«Какая ночь! Я не могу...»](https://www.culture.ru/poems/44205/kakaya-noch-ya-ne-mogu) `26.12.2015`;
-- [«Низкий дом с голубыми ставнями...»](https://www.culture.ru/poems/44239/nizkii-dom-s-golubymi-stavnyami) `17.01.2016`;
-- [Письмо к женщине](https://www.culture.ru/poems/43511/pismo-k-zhenshine) `17.02.2016`;
-- [«Заметался пожар голубой...»](https://www.culture.ru/poems/44253/zametalsya-pozhar-goluboi) `05.03.2016`.
+- [«Ах, как много на свете кошек...»](https://slova.org.ru/esenin/ahkakmnogo/) `07.08.2015`;
+- [«Какая ночь! Я не могу...»](https://slova.org.ru/esenin/kakaianoch/) `26.12.2015`;
+- [«Низкий дом с голубыми ставнями...»](https://slova.org.ru/esenin/nizkiydom/) `17.01.2016`;
+- [Письмо к женщине](https://slova.org.ru/esenin/pismokzhenshine/) `17.02.2016`;
+- [«Заметался пожар голубой...»](https://slova.org.ru/esenin/zametalsia/) `05.03.2016`.
 
 ### **Жуковский Василий Андреевич**
 
-- [Три путника](https://www.culture.ru/poems/17938/tri-putnika) `12.09.2015`.
+- [Три путника](https://slova.org.ru/zhukovskiy/tri-putnika/) `12.09.2015`.
 
 ### **Заболоцкий Николай Алексеевич**
 
-- [Некрасивая девочка](https://www.culture.ru/poems/39086/nekrasivaya-devochka) `03.05.2022`;
-- [Не позволяй душе лениться](https://www.culture.ru/poems/39087/ne-pozvolyai-dushe-lenitsya) `10.07.2022`.
+- [Некрасивая девочка](https://slova.org.ru/zabolotskiy/nekrasivaya_devochka/) `03.05.2022`;
+- [Не позволяй душе лениться](https://slova.org.ru/zabolotskiy/ne_pozvolyai_dushe_lenitsya/) `10.07.2022`.
 
 ### **Катерина Кейнси**
 
@@ -77,16 +77,16 @@
 ### **Лермонтов Михаил Юрьевич**
 
 - [«Измученный тоскою и недугом...»](https://www.askbooka.ru/stihi/mihail-lermontov/izmuchennyy-toskoyu-i-nedugom.html) `16.07.2015`;
-- [«И скучно и грустно...»](https://www.culture.ru/poems/37211/i-skuchno-i-grustno) `12.03.2016`.
+- [«И скучно и грустно...»](https://slova.org.ru/lermontov/i-skuchno-i-grustno/) `12.03.2016`.
 
 ### **Мандельштам Осип Эмильевич**
 
-- [«Сохрани мою речь навсегда...»](https://www.culture.ru/poems/41796/sokhrani-moyu-rech-navsegda) `23.01.2022`;
-- [«За гремучую доблесть грядущих веков...»](https://www.culture.ru/poems/41749/za-gremuchuyu-doblest-gryadushikh-vekov) `23.01.2022`.
+- [«Сохрани мою речь навсегда...»](https://slova.org.ru/mandelshtam/sohrani-moyu-rech-navsegda-za-privkus-neschast-ya-i-dyma/) `23.01.2022`;
+- [«За гремучую доблесть грядущих веков...»](https://slova.org.ru/mandelshtam/za-gremuchuyu-doblest-gryaduwih-vekov/) `23.01.2022`.
 
 ### **Маяковский Владимир Владимирович**
 
-- [Лиличка!](https://www.culture.ru/poems/21310/lilichka) `15.11.2016`.
+- [Лиличка!](https://slova.org.ru/mayakovskiy/lilichka/) `15.11.2016`.
 
 ### **Некрасов Николай Алексеевич**
 
@@ -94,25 +94,25 @@
 
 ### **Пушкин Александр Сергеевич**
 
-- [Вакхическая песня](https://www.culture.ru/poems/4777/vakkhicheskaya-pesnya) `15.08.2015`.
+- [Вакхическая песня](https://slova.org.ru/pushkin/vakhicheskaya-pesnya/) `15.08.2015`.
 
 ### **Рождественский Роберт Иванович**
 
 - [Баллада о таланте, боге и черте](https://stihi.ru/2014/11/18/6069) `14.07.2022`;
-- [Если вы есть будьте первыми](https://www.culture.ru/poems/42539/esli-vy-est-budte-pervymi) `20.12.2022`;
+- [Если вы есть будьте первыми](https://www.igor-mann.ru/esli-vy-est-budte-pervymi-pervym/) `20.12.2022`;
 - [«Воздуха!»](https://stihi.ru/diary/shaton04/2015-05-03) `11.08.2023`.
 
 ### **Твардовский, Александр Трифонович**
 
-- [Рассказ танкиста](https://www.culture.ru/poems/6909/rasskaz-tankista) `29.07.2022`.
+- [Рассказ танкиста](https://nukadeti.ru/stihi/rasskaz-tankista) `29.07.2022`.
 
 ### **Тютчев Фёдор Иванович**
 
 - [Бессонница](https://www.ruthenia.ru/tiutcheviana/stihi/bp/42.html) `16.07.2015`;
 - [Цицерон](https://www.ruthenia.ru/tiutcheviana/stihi/bp/69.html) `30.07.2015`;
-- [«В часы, когда бывает...»](https://www.culture.ru/poems/46248/v-chasy-kogda-byvaet) `24.09.2015`;
-- [Весна](https://www.culture.ru/poems/45632/vesna) `22.10.2015`;
-- [29 января 1837](https://www.culture.ru/poems/46288/29-oe-yanvarya-1837) `03.11.2015`.
+- [«В часы, когда бывает...»](https://www.ruthenia.ru/tiutcheviana/stihi/bp/220.html) `24.09.2015`;
+- [Весна](https://www.ruthenia.ru/tiutcheviana/stihi/bp/125.html) `22.10.2015`;
+- [29 января 1837](https://www.ruthenia.ru/tiutcheviana/stihi/bp/120.html) `03.11.2015`.
 
 ### **Фет Афанасий Афанасьевич**
 
