@@ -178,7 +178,6 @@
 - [Harvard's Free coding courses are excellent. You need to take them.](https://youtu.be/WwEcPcfRlD0?si=zZSBpUvjM0mLzPgw);
 - [How I would learn Machine Learning (if I could start over)](https://youtu.be/wtolixa9XTg?si=g9y_-RdUwPHwGmVI);
 - [How I would learn to code (If I could start over)](https://youtu.be/9s29LKfEFjQ?si=6bPXWHEeVqPhYGVZ);
-- [God-Tier Developer Roadmap](https://youtu.be/pEfrdAtAmqk?si=vwEBp95fhWjA8mDo);
 - [PyTorch for Deep Learning & Machine Learning – Full Course](https://youtu.be/V_xro1bcAuA?si=1yJHoNR3nqpjCRGL)
 
 
@@ -186,7 +185,6 @@
 
 ### **Финансы**
 
-- [Сложный процент](https://youtu.be/xe9dOSIZuHQ?si=I12BRntDz_ipc0EM);
 
 ### **Медитации/аффирмации**
 
