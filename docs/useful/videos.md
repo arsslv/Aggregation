@@ -170,7 +170,6 @@
 - [Сеньор, советы начинающим](https://youtu.be/9qcBzqUuUyM?si=qsgL6gDuAf4N4Ca1);
 - [Курс по n8n](https://www.youtube.com/watch?v=UIf-SlmMays);
 - [the hacker’s roadmap](https://youtu.be/uTAaFExLgwQ?si=wpFphu47jzTdgXC6);
-- [How the Best Hackers Learn Their Craft](https://youtu.be/6vj96QetfTg?si=BMN2gx3QCi9nIbwr);
 - [Machine Learning Full Course - 12 Hours](https://www.youtube.com/live/N5fSpaaxoZc?si=0C6UrVXqgoEZo1Nd);
 - [Getting started with Codex](https://www.youtube.com/watch?v=px7XlbYgk7I&t=1s);
 - [Stanford's FREE data science book and course are the best yet](https://youtu.be/yNYflGw6kJI?si=KlTwXcsN8JFInfZ3);
