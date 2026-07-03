@@ -52,7 +52,6 @@
 - un leurre — приманка;
 - un piège — западня, ловушка;
 - dérober qch à qn — воровать что-то у кого-то;
-- les enchères — аукцион;
 - rôder — бродить, слоняться;
 - des menottes — наручники;
 - chiffonner — беспокоить;
