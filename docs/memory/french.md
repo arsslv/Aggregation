@@ -48,6 +48,7 @@
 - un vestiaire — гардероб;
 - SMIC — salaire minimum interprofessionnel de croissance — МРОТ;
 - les enchères — аукцион;
+- une foire — ярмарка; понос, срачка (*foireux — хуевый*);
 - un appât — приманка, наживка;
 - un leurre — приманка;
 - un piège — западня, ловушка;
@@ -62,7 +63,6 @@
 - licencier — увольнять;
 - soupçonner — подозревать;
 - un bidon — обман, фальшивка;
-- une foire — ярмарка; понос, срачка (*foireux — хуевый*);
 - un poteau — братан, кореш;
 - s’emballer — воодушевиться, заводиться;
 - une couille — яичко (*Tu me casses les couilles — ты ебёшь мне мозги*);
