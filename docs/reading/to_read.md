@@ -3,7 +3,8 @@
 - *Burrows* — "Chemistry3";
 - *Atkins* — "Physical Chemistry";
 - *Alex Michaelides* — "The Silent Patient";
-- *Peter Huber* — "Orwell's Revenge: The 1984 Palimpsest"
+- *Peter Huber* — "Orwell's Revenge: The 1984 Palimpsest";
+- *Voss Chris* — "Never Split the Difference: Negotiating as if Your Life Depended on It".
 
 ### **Русский**
 
