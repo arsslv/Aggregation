@@ -92,6 +92,11 @@
 
 - [«Надрывается сердце от муки...»](https://www.askbooka.ru/stihi/nikolay-nekrasov/nadryvaetsya-serdce-ot-muki.html) `23.01.2016`.
 
+### **Пастернак Борис Леонидович**
+
+- [«В больнице»](https://www.ruthenia.ru/60s/pasternak/kogda/v_bolnice.htm) `10.08.2026`.
+
+
 ### **Пушкин Александр Сергеевич**
 
 - [Вакхическая песня](https://slova.org.ru/pushkin/vakhicheskaya-pesnya/) `15.08.2015`.
