@@ -90,7 +90,10 @@
 - [Neville Goddard Once You Do This You Will Manifest It After 2 days](https://youtu.be/wCQDH88-_rw?si=iybYe3Ue1nL-2Qcv);
 - [I Did Andrew Huberman’s Routine For 14 Days (Brain hacking without nootropics)](https://youtu.be/Nnuj-tBkQUc?si=xZqhP7ko3XZ4hNL1);
 - [The Danger of Active Recall](https://youtu.be/96VbRWUPAA0?si=LzIjYxA0GoBEXT1I);
-- [Полная Перезагрузка Мозга за 7 Дней - Что творит Дофамин](https://youtu.be/56s6S3HZD4E?si=9t1cp1Ns3TNNshEt)
+- [Полная Перезагрузка Мозга за 7 Дней - Что творит Дофамин](https://youtu.be/56s6S3HZD4E?si=9t1cp1Ns3TNNshEt);
+- [The first 20 hours -- how to learn anything | Josh Kaufman](https://www.youtube.com/watch?v=5MgBikgcWnY);
+- [How to learn anything fast | Dr. Andrew Huberman](https://www.youtube.com/watch?v=RvZiOrZwjDk);
+- [6 secrets to learning faster, backed by neuroscience | Lila Landowski ](https://www.youtube.com/watch?v=kKvK2foOTJM)
 
 
 
@@ -177,7 +180,9 @@
 - [Harvard's Free coding courses are excellent. You need to take them.](https://youtu.be/WwEcPcfRlD0?si=zZSBpUvjM0mLzPgw);
 - [How I would learn Machine Learning (if I could start over)](https://youtu.be/wtolixa9XTg?si=g9y_-RdUwPHwGmVI);
 - [How I would learn to code (If I could start over)](https://youtu.be/9s29LKfEFjQ?si=6bPXWHEeVqPhYGVZ);
-- [PyTorch for Deep Learning & Machine Learning – Full Course](https://youtu.be/V_xro1bcAuA?si=1yJHoNR3nqpjCRGL)
+- [PyTorch for Deep Learning & Machine Learning – Full Course](https://youtu.be/V_xro1bcAuA?si=1yJHoNR3nqpjCRGL);
+- [CS50 Cybersecurity](https://www.youtube.com/watch?v=kmJlnUfMd7I&list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE);
+- [Cybersecurity Architecture](https://www.youtube.com/watch?v=jq_LZ1RFPfU).
 
 
 

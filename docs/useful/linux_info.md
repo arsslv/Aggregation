@@ -135,4 +135,3 @@
 - `sudo /usr/local/bin/gitlab-runner start`;
 - `sudo gitlab-runner register --url http://IP/:8888 --token glrt-xxxxxxxxxxxxxxxx`;
 - `mv ~/.bash_logout ~/.bash_logout.bak` — что в файле содержится, почему переименовывали.
-
