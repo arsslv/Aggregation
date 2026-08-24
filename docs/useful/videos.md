@@ -40,7 +40,6 @@
 - [How to absorb textbooks like a sponge](https://www.youtube.com/watch?v=Xu7Yqxlc3ec);
 - [Give me 6:43 and I'll make you instantly more attractive](https://www.youtube.com/watch?v=eCgWqeyJFFQ);
 - [Why most people will remain in mediocrity](https://youtu.be/rH94x03Wl-M?si=C9GvIj7-HkF4c0qF);
-- [Mistakes that kill your charisma](https://youtu.be/sJ9eJuPdROs?si=pwpHU4WQwQ2q93-w);
 - [Habits that lead to huge results](https://youtu.be/0FIejGSLNlI?si=sMfmchsaYcK50Bns);
 - [You will never be lazy again](https://youtu.be/REeROakzwfU?si=FFZtFwifrhmmIfUK);
 - [№1 habit](https://youtu.be/2iPFtZENEq4?si=vvXsx3Om43VCzW2e);
@@ -56,7 +55,6 @@
 - [Мысль изменила жизнь](https://youtu.be/U_BUR9yhgGI?si=ellIPEZxDxBisdQ3);
 - [Как тренировать мозг](https://youtu.be/ddVAB2ohMGU?si=vnRATPmuG2-SSk_P);
 - [when I did this exercise I made 50k in less than 24 hours... (the REAL flow state)](https://youtu.be/g65ZM8__I3s?si=aRKdH60TP8vBnsX8);
-- [Только 1% Делают Это](https://youtu.be/BgGVJyEGsrM?si=ULGODPbv6JmGGHi5);
 - [How I Study 12 Hours a Day With 100% Focus](https://youtu.be/eP8JhBvJu0k?si=C7HCgaMP6VXTAS7J);
 - [You're Seeing This Video Because It's Time to Wake Up](https://youtu.be/0F-Am37jehU?si=qeFpI_Gy8CzsBaVq);
 - [This Story Will Break Your Ego & Return Your Spontaneity](https://youtu.be/kVUucq5PzkU?si=JVtNOIkakh4K8-Z1);
