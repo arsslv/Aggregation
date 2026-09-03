@@ -45,9 +45,10 @@
 - [Innodata](https://innodatacareers.com/) — AI;
 - [Fundraise Up](https://fundraiseup.com/careers/) — IT, финтех;
 - [getmatch](https://getmatch.ru/);
-- [geekjob](https://geekjob.ru/).
-
-
+- [geekjob](https://geekjob.ru/);
+- [hirify](https://hirify.me/) (*нужен VPN*);
+- [instahyre](https://www.instahyre.com/) (*нужен VPN*);
+- [Remote](http://remote.com/) (*нужен VPN*).
 
 ### **Статьи к прочтению**
 
