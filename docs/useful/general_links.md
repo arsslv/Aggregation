@@ -34,7 +34,8 @@
 - [mcp-attlassian](https://github.com/sooperset/mcp-atlassian/tree/main);
 - [Набор ИИ-агентов](https://github.com/msitarzewski/agency-agents);
 - [Полезные проекты](https://github.com/Furthir/awesome-useful-projects);
-- [Computer Science Route](https://github.com/ossu/computer-science).
+- [Computer Science Route](https://github.com/ossu/computer-science);
+- [Идеи для приложений](https://github.com/florinpop17/app-ideas).
 
 ### **Иностранные компании / поиск работы**
 - [Buffer](https://buffer.com/journey) — цифровой контент;
