@@ -19,7 +19,8 @@
 - [Гайд для Сербии](https://www.srb.guide/guides/personal/beli-karton/);
 - [Скачивать книги](https://shadowlibraries.github.io/DirectDownloads/AnnasArchive/);
 - [Linux roadmap](https://roadmap.sh/linux);
-- [Linux курс](https://killercoda.com/courses/linux) (*нужен VPN*).
+- [Linux курс](https://killercoda.com/courses/linux) (*нужен VPN*);
+- [Анимации JS](https://animejs.com/).
 
 ### **Git-репозитории**
 - [Туториалы для программирования](https://github.com/practical-tutorials/project-based-learning);
