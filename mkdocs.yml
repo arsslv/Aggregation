@@ -189,4 +189,5 @@ nav:
     - В процессе: plans/in_progress.md
     - Планируется: plans/to_do.md
   - Курсы:
+    - Планируемые курсы: courses/courses_todo.md
     - Пройденные курсы: courses/courses_done.md
