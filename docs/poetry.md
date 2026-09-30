@@ -41,6 +41,10 @@
 
 - [Призраки](https://ilibrary.ru/text/3466/p.1/index.html) `01.09.2015`.
 
+## **Высоцкий Владимир Семёнович**
+
+- [Девушка из Нагасаки](https://www.strochki.ru/vysockij/devushka_iz_nagasaki.html) `01.09.2015`.
+
 ### **Дементьев Андрей Дмитриевич**
 
 - [Никогда ни о чем не жалейте](https://www.asu.ru/university_life/culture/poetry/news/new_on_site/16981/) `10.01.2026`.

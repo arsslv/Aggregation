@@ -66,5 +66,8 @@
 - [Meshtastic](https://habr.com/ru/articles/568394/);
 - [ROWE-принципы](https://rb.ru/columns/what-is-rowe/);
 - [Тренажёр по BPMN](https://habr.com/ru/articles/1007438/);
-- [Имплементации питона](https://habr.com/ru/articles/209812/).
+- [Имплементации питона](https://habr.com/ru/articles/209812/);
+- [OAuth 2.0](https://habr.com/ru/companies/vk/articles/115163/);
+- [Курс по сетям](https://habr.com/ru/articles/252085/);
+- [Основы GNS3](https://habr.com/ru/articles/266503/)
 
