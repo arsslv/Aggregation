@@ -1,5 +1,1 @@
-- *Patt, Patel* — "Introduction to computing systems";
-- [Курс «Python: основы и применение»](https://stepik.org/course/512/syllabus);
-- [Курс «Введение в DevOps»](https://prostodevops.ru/courses/intro-to-devops);
-- Курс "ML/AI Roadmap" в INDEX 0;
-- [Курс «Мониторинг с Prometheus»](https://stepik.org/course/250785/syllabus).
+- *Patt, Patel* — "Introduction to computing systems"
