@@ -17,8 +17,10 @@
 - [Anthropic курсы](https://anthropic.skilljar.com/) (*нужен VPN*);
 - [Git Mastery](https://gitmastery.me/);
 - [Гайд для Сербии](https://www.srb.guide/guides/personal/beli-karton/);
-- [Скачивать книги](https://shadowlibraries.github.io/DirectDownloads/AnnasArchive/).
-
+- [Скачивать книги](https://shadowlibraries.github.io/DirectDownloads/AnnasArchive/);
+- [Linux roadmap](https://roadmap.sh/linux);
+- [Linux курс](https://killercoda.com/courses/linux) (*нужен VPN*);
+- [Анимации JS](https://animejs.com/).
 
 ### **Git-репозитории**
 - [Туториалы для программирования](https://github.com/practical-tutorials/project-based-learning);
@@ -33,7 +35,8 @@
 - [mcp-attlassian](https://github.com/sooperset/mcp-atlassian/tree/main);
 - [Набор ИИ-агентов](https://github.com/msitarzewski/agency-agents);
 - [Полезные проекты](https://github.com/Furthir/awesome-useful-projects);
-- [Computer Science Route](https://github.com/ossu/computer-science).
+- [Computer Science Route](https://github.com/ossu/computer-science);
+- [Идеи для приложений](https://github.com/florinpop17/app-ideas).
 
 ### **Иностранные компании / поиск работы**
 - [Buffer](https://buffer.com/journey) — цифровой контент;
@@ -44,9 +47,10 @@
 - [Innodata](https://innodatacareers.com/) — AI;
 - [Fundraise Up](https://fundraiseup.com/careers/) — IT, финтех;
 - [getmatch](https://getmatch.ru/);
-- [geekjob](https://geekjob.ru/).
-
-
+- [geekjob](https://geekjob.ru/);
+- [hirify](https://hirify.me/) (*нужен VPN*);
+- [instahyre](https://www.instahyre.com/) (*нужен VPN*);
+- [Remote](http://remote.com/) (*нужен VPN*).
 
 ### **Статьи к прочтению**
 
@@ -59,9 +63,11 @@
 - [Парадокс Ферми](https://waitbutwhy.com/2014/05/fermi-paradox.html);
 - [Нейромедиаторы](https://trends.rbc.ru/trends/amp/news/625803d19a7947aa3a546eda);
 - [Инверсия электронных населённостей](https://ru.ruwiki.ru/wiki/%D0%98%D0%BD%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D1%85_%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9);
-- [Проект без документации](https://habr.com/ru/companies/alfa/articles/853396/);
 - [Meshtastic](https://habr.com/ru/articles/568394/);
 - [ROWE-принципы](https://rb.ru/columns/what-is-rowe/);
 - [Тренажёр по BPMN](https://habr.com/ru/articles/1007438/);
-- [Имплементации питона](https://habr.com/ru/articles/209812/).
+- [Имплементации питона](https://habr.com/ru/articles/209812/);
+- [OAuth 2.0](https://habr.com/ru/companies/vk/articles/115163/);
+- [Курс по сетям](https://habr.com/ru/articles/252085/);
+- [Основы GNS3](https://habr.com/ru/articles/266503/)
 

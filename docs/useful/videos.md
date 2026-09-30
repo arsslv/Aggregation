@@ -40,7 +40,6 @@
 - [How to absorb textbooks like a sponge](https://www.youtube.com/watch?v=Xu7Yqxlc3ec);
 - [Give me 6:43 and I'll make you instantly more attractive](https://www.youtube.com/watch?v=eCgWqeyJFFQ);
 - [Why most people will remain in mediocrity](https://youtu.be/rH94x03Wl-M?si=C9GvIj7-HkF4c0qF);
-- [Mistakes that kill your charisma](https://youtu.be/sJ9eJuPdROs?si=pwpHU4WQwQ2q93-w);
 - [Habits that lead to huge results](https://youtu.be/0FIejGSLNlI?si=sMfmchsaYcK50Bns);
 - [You will never be lazy again](https://youtu.be/REeROakzwfU?si=FFZtFwifrhmmIfUK);
 - [№1 habit](https://youtu.be/2iPFtZENEq4?si=vvXsx3Om43VCzW2e);
@@ -56,7 +55,6 @@
 - [Мысль изменила жизнь](https://youtu.be/U_BUR9yhgGI?si=ellIPEZxDxBisdQ3);
 - [Как тренировать мозг](https://youtu.be/ddVAB2ohMGU?si=vnRATPmuG2-SSk_P);
 - [when I did this exercise I made 50k in less than 24 hours... (the REAL flow state)](https://youtu.be/g65ZM8__I3s?si=aRKdH60TP8vBnsX8);
-- [Только 1% Делают Это](https://youtu.be/BgGVJyEGsrM?si=ULGODPbv6JmGGHi5);
 - [How I Study 12 Hours a Day With 100% Focus](https://youtu.be/eP8JhBvJu0k?si=C7HCgaMP6VXTAS7J);
 - [You're Seeing This Video Because It's Time to Wake Up](https://youtu.be/0F-Am37jehU?si=qeFpI_Gy8CzsBaVq);
 - [This Story Will Break Your Ego & Return Your Spontaneity](https://youtu.be/kVUucq5PzkU?si=JVtNOIkakh4K8-Z1);
@@ -90,7 +88,10 @@
 - [Neville Goddard Once You Do This You Will Manifest It After 2 days](https://youtu.be/wCQDH88-_rw?si=iybYe3Ue1nL-2Qcv);
 - [I Did Andrew Huberman’s Routine For 14 Days (Brain hacking without nootropics)](https://youtu.be/Nnuj-tBkQUc?si=xZqhP7ko3XZ4hNL1);
 - [The Danger of Active Recall](https://youtu.be/96VbRWUPAA0?si=LzIjYxA0GoBEXT1I);
-- [Полная Перезагрузка Мозга за 7 Дней - Что творит Дофамин](https://youtu.be/56s6S3HZD4E?si=9t1cp1Ns3TNNshEt)
+- [Полная Перезагрузка Мозга за 7 Дней - Что творит Дофамин](https://youtu.be/56s6S3HZD4E?si=9t1cp1Ns3TNNshEt);
+- [The first 20 hours -- how to learn anything | Josh Kaufman](https://www.youtube.com/watch?v=5MgBikgcWnY);
+- [How to learn anything fast | Dr. Andrew Huberman](https://www.youtube.com/watch?v=RvZiOrZwjDk);
+- [6 secrets to learning faster, backed by neuroscience | Lila Landowski ](https://www.youtube.com/watch?v=kKvK2foOTJM)
 
 
 
@@ -166,32 +167,26 @@
 - [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=250s);
 - [Reproduce GPT-2](https://youtu.be/l8pRSuU81PU?si=HcMgJmwi_3eAwI52);
 - [Flet + Python: Build a Cross-Platform Stock Market App](https://youtu.be/Uuh4XOsKB1c?si=00mFeAjm_3VtQSmE);
-- [Python Course 1](https://youtu.be/ix9cRaBkVe0?si=gmiBDOnVSOuxkeOJ);
-- [Python Course 2](https://youtu.be/rM-jDeSgOQw?si=6mJA-SCd7vGvGB6y);
 - [Build a REST API in Python](https://youtu.be/Ha3ls0EAtW8?si=nxymxBKeIw0gjjE0);
 - [Сеньор, советы начинающим](https://youtu.be/9qcBzqUuUyM?si=qsgL6gDuAf4N4Ca1);
 - [Курс по n8n](https://www.youtube.com/watch?v=UIf-SlmMays);
-- [How I Would Learn To Code](https://youtu.be/k9WqpQp8VSU?si=Dr3Hq2Imz1TYWQNF);
 - [the hacker’s roadmap](https://youtu.be/uTAaFExLgwQ?si=wpFphu47jzTdgXC6);
-- [Как бы я начал учить кодинг сейчас?](https://youtu.be/4kZjw4vKxTM?si=l-QbGOq74vfEGST5);
-- [How the Best Hackers Learn Their Craft](https://youtu.be/6vj96QetfTg?si=BMN2gx3QCi9nIbwr);
 - [Machine Learning Full Course - 12 Hours](https://www.youtube.com/live/N5fSpaaxoZc?si=0C6UrVXqgoEZo1Nd);
 - [Getting started with Codex](https://www.youtube.com/watch?v=px7XlbYgk7I&t=1s);
 - [Stanford's FREE data science book and course are the best yet](https://youtu.be/yNYflGw6kJI?si=KlTwXcsN8JFInfZ3);
-- [Python if __name__ == '__main__': Visually Explained](https://youtu.be/KZpYtNtGxSU?si=zAC2cYx48XWJPmDr);
 - [Predict The Stock Market With Machine Learning And Python](https://youtu.be/1O_BenficgE?si=Al34bKd1CaamknWu);
 - [Harvard's Free coding courses are excellent. You need to take them.](https://youtu.be/WwEcPcfRlD0?si=zZSBpUvjM0mLzPgw);
 - [How I would learn Machine Learning (if I could start over)](https://youtu.be/wtolixa9XTg?si=g9y_-RdUwPHwGmVI);
 - [How I would learn to code (If I could start over)](https://youtu.be/9s29LKfEFjQ?si=6bPXWHEeVqPhYGVZ);
-- [God-Tier Developer Roadmap](https://youtu.be/pEfrdAtAmqk?si=vwEBp95fhWjA8mDo);
-- [PyTorch for Deep Learning & Machine Learning – Full Course](https://youtu.be/V_xro1bcAuA?si=1yJHoNR3nqpjCRGL)
+- [PyTorch for Deep Learning & Machine Learning – Full Course](https://youtu.be/V_xro1bcAuA?si=1yJHoNR3nqpjCRGL);
+- [CS50 Cybersecurity](https://www.youtube.com/watch?v=kmJlnUfMd7I&list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE);
+- [Cybersecurity Architecture](https://www.youtube.com/watch?v=jq_LZ1RFPfU).
 
 
 
 
 ### **Финансы**
 
-- [Сложный процент](https://youtu.be/xe9dOSIZuHQ?si=I12BRntDz_ipc0EM);
 
 ### **Медитации/аффирмации**
 

@@ -156,6 +156,7 @@ nav:
     - Цитаты: useful/citations.md
     - Полезное каждый день: useful/useful.md
     - Разное: useful/other.md
+    - Инфа по Linux для сайта: useful/linux_info.md
       
         
 
@@ -187,3 +188,7 @@ nav:
   - Планы:
     - В процессе: plans/in_progress.md
     - Планируется: plans/to_do.md
+  - Курсы:
+    - Планируемые курсы: courses/to_do.md
+    - В процессе: courses/in_progress.md
+    - Пройденные курсы: courses/done.md

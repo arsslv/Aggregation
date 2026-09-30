@@ -1,2 +1,1 @@
-- *Patt, Patel* — "Introduction to computing systems";
-- [Курс «Python: основы и применение»](https://stepik.org/course/512/syllabus)
+- *Patt, Patel* — "Introduction to computing systems"
