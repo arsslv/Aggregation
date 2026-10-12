@@ -569,5 +569,3 @@
 7. Убрать любой шум.
 
 ![parkinson's_law](img/parkinsons_law.png)
-
-<iframe src="img/models.html" width="100%" height="400px"></iframe>
