@@ -569,3 +569,7 @@
 7. Убрать любой шум.
 
 ![parkinson's_law](img/parkinsons_law.png)
+
+### **Модели ИИ**
+
+[Открыть интерактивную модель](img/models.html)
