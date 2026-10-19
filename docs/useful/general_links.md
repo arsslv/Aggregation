@@ -21,7 +21,8 @@
 - [Linux roadmap](https://roadmap.sh/linux);
 - [Linux курс](https://killercoda.com/courses/linux) (*нужен VPN*);
 - [Анимации JS](https://animejs.com/);
-- [DevOpsLabs](https://devopslabs.dev/) (*нужен VPN*).
+- [DevOpsLabs](https://devopslabs.dev/) (*нужен VPN*);
+- [EAD (France)](https://www.russie.campusfrance.org/ru/distancionnoe-obrazovanie).
 
 ### **Git-репозитории**
 - [Туториалы для программирования](https://github.com/practical-tutorials/project-based-learning);
