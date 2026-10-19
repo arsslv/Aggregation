@@ -181,7 +181,8 @@
 - [PyTorch for Deep Learning & Machine Learning – Full Course](https://youtu.be/V_xro1bcAuA?si=1yJHoNR3nqpjCRGL);
 - [CS50 Cybersecurity](https://www.youtube.com/watch?v=kmJlnUfMd7I&list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE);
 - [Cybersecurity Architecture](https://www.youtube.com/watch?v=jq_LZ1RFPfU);
-- [Object Oriented Programming from scratch](https://www.youtube.com/watch?v=8moWQ1561FY).
+- [Object Oriented Programming from scratch](https://www.youtube.com/watch?v=8moWQ1561FY);
+- [Kubernetes 101](https://www.youtube.com/watch?v=IcslsH7OoYo&list=PL2_OBreMn7FoYmfx27iSwocotjiikS5BD).
 
 
 
