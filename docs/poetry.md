@@ -41,7 +41,7 @@
 
 - [Призраки](https://ilibrary.ru/text/3466/p.1/index.html) `01.09.2015`.
 
-## **Высоцкий Владимир Семёнович**
+### **Высоцкий Владимир Семёнович**
 
 - [Девушка из Нагасаки](https://www.strochki.ru/vysockij/devushka_iz_nagasaki.html) `01.09.2015`.
 
