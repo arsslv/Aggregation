@@ -73,5 +73,6 @@
 - [OAuth 2.0](https://habr.com/ru/companies/vk/articles/115163/);
 - [Курс по сетям](https://habr.com/ru/articles/252085/);
 - [Основы GNS3](https://habr.com/ru/articles/266503/);
-- [OSI и TCP/IP](https://habr.com/ru/articles/820419/).
+- [OSI и TCP/IP](https://habr.com/ru/articles/820419/);
+- [Сети для самых маленьких](https://linkmeup.ru/blog/1188/).
 
