@@ -28,4 +28,7 @@
 - schlank — стройный;
 - schauen — созерцать, смотреть;
 - blicken — глядеть, смотреть;
-- der Abgrund — пропасть, бездна.
+- der Abgrund — пропасть, бездна;
+- jemandem auffallen — бросаться кому то в глаза;
+- seinen Lauf nehmen — идти своим ходом, чередом;
+- sterben — умирать.

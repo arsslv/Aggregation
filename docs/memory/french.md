@@ -3,6 +3,7 @@
 
 - un décalage — смещение, разница во времени;
 - un décrochage — расцепка, нарушение, сдвиг;
+- décrocher — получить;
 - un meunier — мельник;
 - un foyer — интернат;
 - creuser — копать, рыть;
@@ -152,11 +153,11 @@
 - tenable — пригодный;
 - mettre de côté — отбросить в сторону;
 - une charge de travail — объём работы;
+- se mettre d’accord sur — договориться о;
+- réticent — сдержанный, нерешительный;
 - régir — регулировать;
 - aiguiller — направлять;
 - grosso modo — грубо говоря;
-- se mettre d’accord sur — договориться о;
-- réticent — сдержанный, нерешительный;
 - s’être rendu à/en/dans — посетить;
 - une débrouille — находчивость, изворотливость;
 - primer — занимать первое место, главенствовать;
@@ -165,7 +166,6 @@
 - progressivement — постепенно, поэтапно;
 - quitte à ce que … — даже если…, хотя…;
 - un amphi — аудитория;
-- décrocher — получить;
 - endosser — напяливать, брать на себя;
 - un cobaye — морская свинка;
 - délétère — смертоносный, пагубный;
@@ -173,8 +173,8 @@
 - tentant — заманчивый, соблазнительный;
 - rusé — хитрый;
 - palmé — перепончатый;
-- fiable — надежный;
 - époustouflant — потрясающий, сногсшибательный;
+- fiable — надежный;
 - élogieux — хвалебный;
 - à outrance — чрезмерно;
 - guère — едва ли;
@@ -193,9 +193,9 @@
 - un troc — обмен, бартер;
 - crocheter — отпирать отмычкой;
 - un boucan — грохот, шум;
+- s’effondrer — рухнуть, обвалиться;
 - une carlingue — кабина;
 - chahuter — шуметь;
-- s’effondrer — рухнуть, обвалиться;
 - un branle-bas — суматоха;
 - puer — вонять;
 - un remords — сожаление;
@@ -209,6 +209,8 @@
 - chétif — дохлый, чахлый;
 - riquiqui — малюсенький;
 - une guérison — выздоровление, исцеление;
+- un herisson — ёжик;
+- hérisser — топорщить, взъерошивать;
 - se décontracter — расслабиться;
 - gober — глотать;
 - ramolli — старчески ослабевший;
@@ -216,13 +218,13 @@
 - une narine — ноздря;
 - une voûte — свод;
 - frissonner — чувствовать озноб;
-- pourri — гнилой;
-- virer — уволить;
 - une braguette — ширинка;
 - une caserne — казарма;
 - une casaque — плащ с широкими рукавами;
 - incongrue — неуместный, несообразный;
 - se marrer — забавляться, смеяться;
+- pourri — гнилой;
+- virer — уволить;
 - signaler — отметить;
 - s’en prendre à — нападать на кого-то;
 - mendiant — нищий;
@@ -232,7 +234,6 @@
 - un baudrier — портупея;
 - un mollet — икра ноги;
 - un poil — волос, шерсть;
-- hérisser — топорщить, взъерошивать;
 - une monture — верховое животное;
 - un guidon — знамя;
 - un bidet — лошадка;
@@ -290,7 +291,6 @@
 - flou — туманный, расплывчатый, неясный;
 - redondant — цветистый, раздутый;
 - instaurer — вводить, учреждать;
-- un débit — расход, пропускная способность, скорость;
 - pour autant — тем не менее, впрочем (*Les résultats de cet année sont meilleurs, mais pas satisfaisants pour autant*);
 - être à la traîne — отставать;
 - se vanter — хвалиться;
@@ -459,5 +459,4 @@
 - sceller — запечатывать, заделывать;
 - une chape — облачение, покрытие;
 - hébétér — отуплять;
-- ployer — гнуться, сгибаться;
-- herisson — ёжик.
+- ployer — гнуться, сгибаться.
