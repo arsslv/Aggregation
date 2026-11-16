@@ -1,0 +1,1 @@
+- [Курс «Мониторинг с Prometheus»](https://stepik.org/course/250785/syllabus).
