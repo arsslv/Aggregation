@@ -12,6 +12,7 @@
 - un exode — массовая эмиграция;
 - un fil rouge — путеводная нить;
 - un sceau — печать;
+- un seau — ведро;
 - une pente — наклон, откос, склон;
 - un maraîcher — овощевод, огородник;
 - un voilier — парусник;
