@@ -1,3 +1,5 @@
 - [Курс «Автоматизация тестирования с помощью Selenium и Python»](https://stepik.org/course/575/syllabus);
 - [Курс по REST API](https://starkovden.github.io/index.html);
-- [Курс по CS](https://pll.harvard.edu/course/cs50-introduction-computer-science).
+- [Курс по CS](https://pll.harvard.edu/course/cs50-introduction-computer-science);
+- [DevOps RoadMap](https://devopslabs.dev/roadmap);
+- [Контейнеризация с Docker](https://yandex.cloud/ru/training/docker?utm_referrer=about%3Ablank)

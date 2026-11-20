@@ -4,10 +4,14 @@
 - *Atkins* — "Physical Chemistry";
 - *Alex Michaelides* — "The Silent Patient";
 - *Peter Huber* — "Orwell's Revenge: The 1984 Palimpsest";
-- *Voss Chris* — "Never Split the Difference: Negotiating as if Your Life Depended on It".
+- *Voss Chris* — "Never Split the Difference: Negotiating as if Your Life Depended on It";
+- *Brian W. Kernigan, Rob Pike* — "The UNIX Programming Environment";
+- *Noam Nisan, Shimon Schocken* — "The Elements of Computing Systems";
+- **William Shots* — "The Linux Command Line".
 
 ### **Русский**
 
+- *Дональд Кнут* — «Искусство программирования»;
 - *Лора Вандеркам* — «Книга о потерянном времени»;
 - *Челпанов* — «Учебник логики»;
 - *Аристотель* — «Органон»;
@@ -180,3 +184,7 @@
 - *Стивен Лаберж* — «Практика осознанного сновидения»;
 - *Алан Пиз, Барбара Пиз* — «Ответ. Проверенная методика достижения недостижимого»;
 - *Леонид Бартов* — «Неизведанное в себе».
+
+### **Французский**
+
+- *Valérie Perrin* — "Les Oubliés du dimanche"
