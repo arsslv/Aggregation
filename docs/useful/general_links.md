@@ -22,7 +22,8 @@
 - [Linux курс](https://killercoda.com/courses/linux) (*нужен VPN*);
 - [Анимации JS](https://animejs.com/);
 - [EAD (France)](https://www.russie.campusfrance.org/ru/distancionnoe-obrazovanie);
-- [Ардуино, электронный конструктор](https://arduino.ru/).
+- [Ардуино, электронный конструктор](https://arduino.ru/);
+- [Материалы для медика](https://publish.obsidian.md/chromatically/publish+homepage).
 
 ### **Git-репозитории**
 - [Туториалы для программирования](https://github.com/practical-tutorials/project-based-learning);
