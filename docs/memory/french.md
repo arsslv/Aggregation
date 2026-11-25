@@ -1,6 +1,5 @@
 ```Red Alert 3 - СССР```
 
-
 - un décalage — смещение, разница во времени;
 - un décrochage — расцепка, нарушение, сдвиг;
 - décrocher — получить;
@@ -191,7 +190,7 @@
 - déchirer — рвать;
 - une jauge — мера ёмкости, объём, указатель уровня;
 - un complotisme — теория заговора;
-- il ne peux pas me blairer — он терпеть меня не может;
+- il ne peut pas me blairer — он терпеть меня не может;
 - cafter à — ябедничать кому-то;
 - un cavaleur — бабник;
 - puer — вонять;
@@ -235,7 +234,7 @@
 - signaler — отметить;
 - s’en prendre à — нападать на кого-то;
 - (un) mendiant — нищий;
-- rêvetu — покрытый;
+- revêtu — покрытый;
 - une lie — осадок, гуща, шлам;
 - une epée — шпага;
 - un baudrier — портупея;
