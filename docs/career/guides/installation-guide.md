@@ -43,6 +43,8 @@ dev-setup/
 
 ### Python
 
+#### Vs Code
+
 1. Открыть **Extensions (расширения)** в левом боковом меню и установить расширение **Pyhton** (от Microsoft).
 2. **Ctrl+Shift+P** -> `Python: Select Interpreter` -> должен быть выбран `/usr/bin/python3`.
 3. Создать файл **`hello.py`** и записать:
