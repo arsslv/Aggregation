@@ -186,6 +186,10 @@ nav:
         - План (30 дней): career/plan.md
         - Рабочий лист по плану: career/work_in_progress.md
         - Случайные заметки: career/random_notes.md
+      - "Системный администратор":
+        - Гайды:
+          - Установка и проверка программ: career/guides/installation-guide.md
+          - Отключение доступа в интернет: career/guides/net-access.md
   - Планы:
     - В процессе: plans/in_progress.md
     - Планируется: plans/to_do.md
